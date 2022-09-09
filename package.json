@@ -1,0 +1,19 @@
+{
+  "name": "ryo-funaba",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ryo-funaba/ryo-funaba.git",
+  "author": "Ryo Funaba <ryo278.0417@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@proofdict/textlint-rule-proofdict": "^3.1.2",
+    "@textlint-ja/textlint-rule-no-dropping-i": "^2.0.0",
+    "textlint": "^12.2.1",
+    "textlint-rule-alex": "^3.0.0",
+    "textlint-rule-no-doubled-joshi": "^4.0.1",
+    "textlint-rule-no-dropping-the-ra": "^3.0.0",
+    "textlint-rule-preset-ja-spacing": "^2.2.0",
+    "textlint-rule-preset-ja-technical-writing": "^7.0.0",
+    "textlint-rule-rousseau": "^1.4.7"
+  }
+}
