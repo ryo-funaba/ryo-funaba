@@ -1,4 +1,4 @@
-![title-image](/image/title_img.png)
+![Title-image](/image/title_img.png)
 
 [<a href="/README.md">English</a> | <a href="/docs/README-ja.md">日本語</a>]
 

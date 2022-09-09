@@ -13,7 +13,8 @@
     },
     "preset-ja-technical-writing": true,
     "rousseau": {
-      "showLevels": ["suggestion", "warning", "error"]
+      "showLevels": ["suggestion", "warning", "error"],
+      "ignoreTypes": ["adverbs"]
     },
     "@textlint-ja/textlint-rule-no-dropping-i": true,
     "@proofdict/proofdict": {
