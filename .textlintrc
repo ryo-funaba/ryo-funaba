@@ -1,17 +1,40 @@
 {
-  "filters": {},
+  "filters": {
+    "comments": true
+  },
   "rules": {
     "alex": {
       "allow": []
     },
+    "ja-space-around-link": {
+      "before": true,
+      "after": true
+    },
     "no-doubled-joshi": true,
     "no-dropping-the-ra": true,
     "preset-ja-spacing": {
+      "ja-space-around-code": {
+        "before": true,
+        "after": true
+      },
       "ja-space-between-half-and-full-width": {
         "space": "always"
       }
     },
-    "preset-ja-technical-writing": true,
+    "prh": {
+      "rulePaths": [
+        "node_modules/prh/prh-rules/media/WEB+DB_PRESS.yml"
+      ]
+    },
+    "preset-ja-technical-writing": {
+      "sentence-length": {
+        "max": 150
+      },
+      "no-exclamation-question-mark": false,
+      "ja-no-weak-phrase": false,
+      "ja-no-successive-word": false,
+      "ja-no-mixed-period": false
+    },
     "rousseau": {
       "showLevels": ["suggestion", "warning", "error"],
       "ignoreTypes": ["adverbs"]
