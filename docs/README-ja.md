@@ -3,7 +3,7 @@
 [ <a href="/README.md">English</a> | 日本語 ]
 <h1 align="left">👋はじめまして</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryo-funaba&label=Profile%20views&color=0e75b6&style=flat" alt="ryo-funaba" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryo-funaba&label=閲覧数&color=0e75b6&style=flat" alt="ryo-funaba" /> </p>
 
 - 💼  **受託開発企業** で働いています
 
