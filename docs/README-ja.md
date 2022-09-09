@@ -1,6 +1,7 @@
 ![title-image](/image/title_img.png)
 
-[ <a href="/README.md">English</a> | 日本語 ]
+[<a href="/README.md">English</a> | <a href="/docs/README-ja.md">日本語</a>]
+
 <h1 align="left">👋はじめまして</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryo-funaba&label=閲覧数&color=0e75b6&style=flat" alt="ryo-funaba" /> </p>

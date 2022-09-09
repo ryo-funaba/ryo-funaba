@@ -1,0 +1,23 @@
+{
+  "filters": {},
+  "rules": {
+    "alex": {
+      "allow": []
+    },
+    "no-doubled-joshi": true,
+    "no-dropping-the-ra": true,
+    "preset-ja-spacing": {
+      "ja-space-between-half-and-full-width": {
+        "space": "always"
+      }
+    },
+    "preset-ja-technical-writing": true,
+    "rousseau": {
+      "showLevels": ["suggestion", "warning", "error"]
+    },
+    "@textlint-ja/textlint-rule-no-dropping-i": true,
+    "@proofdict/proofdict": {
+      "dictURL": "https://azu.github.io/proof-dictionary/"
+    }
+  }
+}
