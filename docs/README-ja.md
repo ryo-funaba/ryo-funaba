@@ -1,12 +1,12 @@
-![Title-image](/image/title_img.png)
+<img align="center" alt="title_img" src="./../image/title_img.png" width="500px"/>
 
 [<a href="/README.md">English</a> | <a href="/docs/README-ja.md">日本語</a>]
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>始めまして
+# <img alt="emoji" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>始めまして
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ryo-funaba&show_icons=true&locale=en" alt="ryo-funaba" />
+<img align="right" alt="github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=ryo-funaba&show_icons=true&locale=en" alt="ryo-funaba" />
 
-<img src="https://komarev.com/ghpvc/?username=ryo-funaba&label=閲覧数&color=0e75b6&style=flat" alt="ryo-funaba" />
+<img alt="profile-views-counter" src="https://komarev.com/ghpvc/?username=ryo-funaba&label=閲覧数&color=0e75b6&style=flat" alt="ryo-funaba" />
 
 - 💼  **受託開発企業** で働いています
 

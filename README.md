@@ -1,12 +1,12 @@
-![Title-image](/image/title_img.png)
+<img align="center" alt="title_img" src="./image/title_img.png" width="500px"/>
 
 [<a href="/README.md">English</a> | <a href="/docs/README-ja.md">日本語</a>]
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there
+# <img alt="emoji" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ryo-funaba&show_icons=true&locale=en" alt="ryo-funaba" />
+<img align="right" alt="github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=ryo-funaba&show_icons=true&locale=en"/>
 
-<img src="https://komarev.com/ghpvc/?username=ryo-funaba&label=Profile%20views&color=0e75b6&style=flat" alt="ryo-funaba" />
+<img alt="profile-views-counter" src="https://komarev.com/ghpvc/?username=ryo-funaba&label=Profile%20views&color=0e75b6&style=flat"/>
 
 - 💼 I’m currently working at **a contract development company**
 
