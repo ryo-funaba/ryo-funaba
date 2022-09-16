@@ -2,7 +2,7 @@
 
 [<a href="/README.md">English</a> | <a href="/docs/README-ja.md">日本語</a>]
 
-# <img alt="emoji" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>始めまして
+# ⚡️ 基本情報
 
 <img align="right" alt="github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=ryo-funaba&show_icons=true&locale=en" alt="ryo-funaba" />
 
@@ -12,7 +12,13 @@
 
 - 🌱 最近は **Go と DevOps** を学んでいます
 
-- 📝 技術記事は [zenn.dev](https://zenn.dev/ryo_f) に投稿しています
+- 📝 技術記事は [Zenn](https://zenn.dev/ryo_f) に投稿しています
+
+# 🌟OSS コントリビュート
+- [textlint-rule-rousseau](https://github.com/textlint-rule/textlint-rule-rousseau)
+  - [Issue](https://github.com/textlint-rule/textlint-rule-rousseau/issues/8)
+  - [PR](https://github.com/textlint-rule/textlint-rule-rousseau/pull/10)
+
 
 # 🚀 使用ツール
 
@@ -23,3 +29,20 @@
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </p>
+
+# 🎥 好きな映画ランキング
+
+- 🥇[ダークナイト](https://www.netflix.com/title/70079583)
+
+- 🥈[ワイルド・スピード MEGA MAX](https://www.netflix.com/title/70157102)
+
+- 🥉[トランスフォーマー/ダークサイド・ムーン](https://www.netflix.com/title/70153859)
+
+# 📺 好きなアニメランキング
+
+- 🥇[進撃の巨人](https://www.netflix.com/title/70299043)
+
+- 🥈[オーバーロード](https://www.netflix.com/title/80132110)
+
+- 🥉[Fate/Zero](https://www.netflix.com/title/70304256)
+

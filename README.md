@@ -2,7 +2,7 @@
 
 [<a href="/README.md">English</a> | <a href="/docs/README-ja.md">日本語</a>]
 
-# <img alt="emoji" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there
+# ⚡️ A Few Quick Facts
 
 <img align="right" alt="github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=ryo-funaba&show_icons=true&locale=en"/>
 
@@ -12,7 +12,12 @@
 
 - 🌱 I’m currently learning **Go and DevOps**
 
-- 📝 I regularly write articles on [zenn.dev](https://zenn.dev/ryo_f)
+- 📝 I regularly write articles on [Zenn](https://zenn.dev/ryo_f)
+
+# 🌟Contribute to OSS
+- [textlint-rule-rousseau](https://github.com/textlint-rule/textlint-rule-rousseau)
+  - [Issue](https://github.com/textlint-rule/textlint-rule-rousseau/issues/8)
+  - [PR](https://github.com/textlint-rule/textlint-rule-rousseau/pull/10)
 
 # 🚀 Some Tools I Use
 
@@ -23,3 +28,19 @@
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </p>
+
+# 🎥 My Favorite Movie Ranking
+
+- 🥇[The Dark Knight](https://www.netflix.com/title/70079583)
+
+- 🥈[Fast Five](https://www.netflix.com/title/70157102)
+
+- 🥉[Transformers: Dark of the Moon](https://www.netflix.com/title/70153859)
+
+# 📺 My Favorite Anime Ranking
+
+- 🥇[Attack on Titan](https://www.netflix.com/title/70299043)
+
+- 🥈[Overlord](https://www.netflix.com/title/80132110)
+
+- 🥉[Fate/Zero](https://www.netflix.com/title/70304256)
