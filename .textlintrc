@@ -3,9 +3,6 @@
     "comments": true
   },
   "rules": {
-    "alex": {
-      "allow": []
-    },
     "ja-space-around-link": {
       "before": true,
       "after": true
