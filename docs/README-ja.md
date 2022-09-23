@@ -30,7 +30,17 @@
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </p>
 
-# 🎥 好きな映画ランキング
+# 💁‍♂️ 私について
+
+## ❤️ 好きなもの
+
+- Go
+- DevOps
+- Docker
+- GraphQL
+- ミニマリズム
+
+## 🎥 好きな映画ランキング
 
 - 🥇[ダークナイト](https://www.netflix.com/title/70079583)
 
@@ -38,7 +48,7 @@
 
 - 🥉[トランスフォーマー/ダークサイド・ムーン](https://www.netflix.com/title/70153859)
 
-# 📺 好きなアニメランキング
+## 📺 好きなアニメランキング
 
 - 🥇[進撃の巨人](https://www.netflix.com/title/70299043)
 
