@@ -2,6 +2,9 @@
   "name": "ryo-funaba",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "lint": "textlint . && markdownlint *.md **/*.md"
+  },
   "repository": "git@github.com:ryo-funaba/ryo-funaba.git",
   "author": "Ryo Funaba <ryo278.0417@gmail.com>",
   "license": "MIT",
