@@ -1,2 +1,43 @@
+# General
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Visual Studio Code
+.history/*
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/settings.json
+!.vscode/tasks.json
+
+# Node
+node_modules
+npm-debug.log
 .cache
-node_modules/
+
+# Build directories
+dist
+build
+.angular/cache
+
+# Testing
+coverage
+
+# Misc
+*.crx
+*.pem
+*.zip
+*.provisionprofile
+
+# Storybook
+documentation.json
+.eslintcache
