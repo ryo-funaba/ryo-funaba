@@ -2,12 +2,16 @@
   "name": "ryo-funaba",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "lint": "textlint . && markdownlint *.md **/*.md"
+  },
   "repository": "git@github.com:ryo-funaba/ryo-funaba.git",
   "author": "Ryo Funaba <ryo278.0417@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@proofdict/textlint-rule-proofdict": "^3.1.2",
     "@textlint-ja/textlint-rule-no-dropping-i": "^2.0.0",
+    "markdownlint-cli": "^0.32.2",
     "textlint": "^12.2.1",
     "textlint-filter-rule-comments": "^1.2.2",
     "textlint-rule-ja-space-around-link": "^2.2.0",

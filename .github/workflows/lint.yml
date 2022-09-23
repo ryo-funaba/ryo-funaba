@@ -1,8 +1,8 @@
-name: textlint
+name: lint
 on: push
 jobs:
   textlint:
-    name: textlint
+    name: lint
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -14,5 +14,5 @@ jobs:
           cache: yarn
       - name: yarn install
         run: yarn install
-      - name: run textlint
-        run: yarn textlint .
+      - name: yarn lint
+        run: yarn lint

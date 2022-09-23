@@ -9,12 +9,11 @@
 <img alt="profile-views-counter" src="https://komarev.com/ghpvc/?username=ryo-funaba&label=Profile%20views&color=0e75b6&style=flat"/>
 
 - 💼 I’m currently working at **a contract development company**
-
 - 🌱 I’m currently learning **Go and DevOps**
-
 - 📝 I regularly write articles on [Zenn](https://zenn.dev/ryo_f)
 
 # 🌟Contribute to OSS
+
 - [textlint-rule-rousseau](https://github.com/textlint-rule/textlint-rule-rousseau)
   - [Issue](https://github.com/textlint-rule/textlint-rule-rousseau/issues/8)
   - [PR](https://github.com/textlint-rule/textlint-rule-rousseau/pull/10)
@@ -42,15 +41,11 @@
 ## 🎥 My Favorite Movie Ranking
 
 - 🥇[The Dark Knight](https://www.netflix.com/title/70079583)
-
 - 🥈[Fast Five](https://www.netflix.com/title/70157102)
-
 - 🥉[Transformers: Dark of the Moon](https://www.netflix.com/title/70153859)
 
 ## 📺 My Favorite Anime Ranking
 
 - 🥇[Attack on Titan](https://www.netflix.com/title/70299043)
-
 - 🥈[Overlord](https://www.netflix.com/title/80132110)
-
 - 🥉[Fate/Zero](https://www.netflix.com/title/70304256)

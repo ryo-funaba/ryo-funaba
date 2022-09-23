@@ -9,16 +9,14 @@
 <img alt="profile-views-counter" src="https://komarev.com/ghpvc/?username=ryo-funaba&label=閲覧数&color=0e75b6&style=flat" alt="ryo-funaba" />
 
 - 💼  **受託開発企業** で働いています
-
 - 🌱 最近は **Go と DevOps** を学んでいます
-
 - 📝 技術記事は [Zenn](https://zenn.dev/ryo_f) に投稿しています
 
 # 🌟OSS コントリビュート
+
 - [textlint-rule-rousseau](https://github.com/textlint-rule/textlint-rule-rousseau)
   - [Issue](https://github.com/textlint-rule/textlint-rule-rousseau/issues/8)
   - [PR](https://github.com/textlint-rule/textlint-rule-rousseau/pull/10)
-
 
 # 🚀 使用ツール
 
@@ -43,16 +41,11 @@
 ## 🎥 好きな映画ランキング
 
 - 🥇[ダークナイト](https://www.netflix.com/title/70079583)
-
 - 🥈[ワイルド・スピード MEGA MAX](https://www.netflix.com/title/70157102)
-
 - 🥉[トランスフォーマー/ダークサイド・ムーン](https://www.netflix.com/title/70153859)
 
 ## 📺 好きなアニメランキング
 
 - 🥇[進撃の巨人](https://www.netflix.com/title/70299043)
-
 - 🥈[オーバーロード](https://www.netflix.com/title/80132110)
-
 - 🥉[Fate/Zero](https://www.netflix.com/title/70304256)
-
