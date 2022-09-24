@@ -2,6 +2,10 @@
 
 [<a href="/README.md">English</a> | <a href="/docs/README-ja.md">日本語</a>]
 
+<a href="https://github.com/ryo-funaba/ryo-funaba/actions/workflows/lint.yml">
+    <img src="https://github.com/ryo-funaba/ryo-funaba/actions/workflows/lint.yml/badge.svg?branch=main&event=push" alt="lint badge">
+</a>
+
 # ⚡️ A Few Quick Facts
 
 <img align="right" alt="github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=ryo-funaba&show_icons=true&locale=en"/>
