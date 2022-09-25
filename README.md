@@ -1,28 +1,28 @@
 <img align="center" alt="title_img" src="./image/title_img.png" width="500px"/>
 
-[<a href="/README.md">English</a> | <a href="/docs/README-ja.md">日本語</a>]
+[<a href="/docs/README-en.md">English</a> | 日本語</a>]
 
 <a href="https://github.com/ryo-funaba/ryo-funaba/actions/workflows/lint.yml">
     <img src="https://github.com/ryo-funaba/ryo-funaba/actions/workflows/lint.yml/badge.svg?branch=main&event=push" alt="lint badge">
 </a>
 
-# ⚡️ A Few Quick Facts
+# ⚡️ 基本情報
 
-<img align="right" alt="github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=ryo-funaba&show_icons=true&locale=en"/>
+<img align="right" alt="github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=ryo-funaba&show_icons=true&locale=en" alt="ryo-funaba" />
 
-<img alt="profile-views-counter" src="https://komarev.com/ghpvc/?username=ryo-funaba&label=Profile%20views&color=0e75b6&style=flat"/>
+<img alt="profile-views-counter" src="https://komarev.com/ghpvc/?username=ryo-funaba&label=閲覧数&color=0e75b6&style=flat" alt="ryo-funaba" />
 
-- 💼 I’m currently working at **a contract development company**
-- 🌱 I’m currently learning **Go and DevOps**
-- 📝 I regularly write articles on [Zenn](https://zenn.dev/ryo_f)
+- 💼  **受託開発企業** で働いています
+- 🌱 最近は **Go と DevOps** を学んでいます
+- 📝 技術記事は [Zenn](https://zenn.dev/ryo_f) に投稿しています
 
-# 🌟Contribute to OSS
+# 🌟OSS コントリビュート
 
 - [textlint-rule-rousseau](https://github.com/textlint-rule/textlint-rule-rousseau)
   - [Issue](https://github.com/textlint-rule/textlint-rule-rousseau/issues/8)
   - [PR](https://github.com/textlint-rule/textlint-rule-rousseau/pull/10)
 
-# 🚀 Some Tools I Use
+# 🚀 使用ツール
 
 <p>
   <img alt="Go" src="https://img.shields.io/badge/-Go-42b0a5?style=flat-square&logo=go&logoColor=white" />
@@ -32,24 +32,24 @@
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </p>
 
-# 💁‍♂️ About me
+# 💁‍♂️ 私について
 
-## ❤️ Love
+## ❤️ 好きなもの
 
 - Go
 - DevOps
 - Docker
 - GraphQL
-- minimalism
+- ミニマリズム
 
-## 🎥 My Favorite Movie Ranking
+## 🎥 好きな映画ランキング
 
-- 🥇[The Dark Knight](https://www.netflix.com/title/70079583)
-- 🥈[Fast Five](https://www.netflix.com/title/70157102)
-- 🥉[Transformers: Dark of the Moon](https://www.netflix.com/title/70153859)
+- 🥇[ダークナイト](https://www.netflix.com/title/70079583)
+- 🥈[ワイルド・スピード MEGA MAX](https://www.netflix.com/title/70157102)
+- 🥉[トランスフォーマー/ダークサイド・ムーン](https://www.netflix.com/title/70153859)
 
-## 📺 My Favorite Anime Ranking
+## 📺 好きなアニメランキング
 
-- 🥇[Attack on Titan](https://www.netflix.com/title/70299043)
-- 🥈[Overlord](https://www.netflix.com/title/80132110)
+- 🥇[進撃の巨人](https://www.netflix.com/title/70299043)
+- 🥈[オーバーロード](https://www.netflix.com/title/80132110)
 - 🥉[Fate/Zero](https://www.netflix.com/title/70304256)
