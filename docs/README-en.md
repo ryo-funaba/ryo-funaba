@@ -36,11 +36,9 @@
 
 ## ❤️ Love
 
-- Go
-- DevOps
-- Docker
-- GraphQL
-- minimalism
+- Playing with dogs
+- Healthy Living
+- Minimalism
 
 ## 🎥 My Favorite Movie Ranking
 
