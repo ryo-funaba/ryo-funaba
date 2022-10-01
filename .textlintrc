@@ -20,7 +20,7 @@
     },
     "prh": {
       "rulePaths": [
-        "node_modules/prh/prh-rules/media/WEB+DB_PRESS.yml"
+        "./prh.yml"
       ]
     },
     "preset-ja-technical-writing": {
@@ -34,7 +34,7 @@
     },
     "rousseau": {
       "showLevels": ["suggestion", "warning", "error"],
-      "ignoreTypes": ["adverbs", "sentence:uppercase"]
+      "ignoreTypes": ["adverbs", "readibility", "sentence:uppercase"]
     },
     "@textlint-ja/textlint-rule-no-dropping-i": true,
     "@proofdict/proofdict": {
