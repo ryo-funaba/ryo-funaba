@@ -1,4 +1,4 @@
-<img align="center" alt="title_img" src="./../image/title_img.png" width="500px"/>
+<img align="center" alt="title_img" src="./../image/title_img.png" width="100%"/>
 
 [English | <a href="/README.md">日本語</a>]
 
