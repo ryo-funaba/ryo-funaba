@@ -40,6 +40,12 @@
 - 健康的な生活
 - ミニマリズム
 
+## 📚 好きな書籍ランキング
+
+- 🥇[コンサル一年目が学ぶこと](https://www.amazon.co.jp/dp/B00MA671WW)
+- 🥈[新1分間リーダーシップ: どんな部下にも通用する4つの方法](https://www.amazon.co.jp/dp/4478029288)
+- 🥉[Webを支える技術](https://www.amazon.co.jp/dp/B07JK7FZH2)
+
 ## 🎥 好きな映画ランキング
 
 - 🥇[ダークナイト](https://www.netflix.com/title/70079583)
