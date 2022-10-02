@@ -40,6 +40,12 @@
 - Healthy Living
 - Minimalism
 
+## 📚 My Favorite Book Ranking
+
+- 🥇[What the first year of consultants learn](https://www.amazon.co.jp/dp/B00MA671WW)
+- 🥈[Leadership and the One Minute Manager](https://www.amazon.co.jp/dp/4478029288)
+- 🥉[The Technology Behind the Web](https://www.amazon.co.jp/dp/B07JK7FZH2)
+
 ## 🎥 My Favorite Movie Ranking
 
 - 🥇[The Dark Knight](https://www.netflix.com/title/70079583)
