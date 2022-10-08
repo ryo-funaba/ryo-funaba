@@ -1,6 +1,6 @@
-<img align="center" alt="title image" src="./../image/title_img.gif" width="100%"/>
+<img align="center" alt="title image" src="./image/title_img.gif" width="100%"/>
 
-[English | <a href="/README.md">日本語</a>]
+[English | <a href="README.md">日本語</a>]
 
 <a href="https://github.com/ryo-funaba/ryo-funaba/actions/workflows/lint.yml">
     <img src="https://github.com/ryo-funaba/ryo-funaba/actions/workflows/lint.yml/badge.svg?branch=main&event=push" alt="lint badge">
