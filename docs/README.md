@@ -41,23 +41,23 @@
 #### _※業務で使用した技術のみを列挙しています_
 
 - **言語**
-  - Go | JavaScript | Ruby | TypeScript
+  - Go・JavaScript・Ruby・TypeScript
 
 - **フレームワーク等**
-  - React | Ruby on Rails | Serverless Framework
+  - React・Ruby on Rails・Serverless Framework
 
 - **RDB**
-  - MySQL | PostgreSQL
+  - MySQL・PostgreSQL
 
 - **クラウド**
   - AWS
-    - API Gateway | AppSync | Aurora | CloudWatch | Cognito | DynamoDB | ECR | ECS | EC2 | Fargate | IAM | Lambda | SES | S3
+    - API Gateway・AppSync・Aurora・CloudWatch・Cognito・DynamoDB・ECR・ECS・EC2・Fargate・IAM・Lambda・SES・S3
 
 - **SaaS/PaaS**
-  - Bitbucket | CircleCI | GitHub | GitHub Actions
+  - Bitbucket・CircleCI・GitHub・GitHub Actions
 
 - **その他**
-  - Docker | Docker Compose | GraphQL | RSpec
+  - Docker・Docker Compose・GraphQL・RSpec
 
 ## OSS コントリビュート
 
@@ -80,13 +80,13 @@
       - 2021/04/01 ~ 現在
     - 開発人数
       - 約 8 人
-    - 言語 | フレームワーク
-      - Go | Serverless Framework
+    - 言語・フレームワーク
+      - Go・Serverless Framework
     - インフラ
       - AWS
-        - API Gateway | AppSync | Aurora | CloudWatch | Cognito | DynamoDB | ECR | ECS | EC2 | Fargate | IAM | Lambda | SES | S3
+        - API Gateway・AppSync・Aurora・CloudWatch・Cognito・DynamoDB・ECR・ECS・EC2・Fargate・IAM・Lambda・SES・S3
     - ツール
-      - Bitbucket | Docker | Docker Compose | GitHub | GitHub Actions | MySQL
+      - Bitbucket・Docker・Docker Compose・GitHub・GitHub Actions・MySQL
     - 概要
       - 導入数が業界首位の入居者管理サービスのバックエンドの保守・運用・新規機能開発を担当
       - 他社からの引継ぎ案件の立ち上げメンバーとして参加
@@ -126,10 +126,10 @@
       - 2020-06-23 ~ 2021-01-30
     - 開発人数
       - 約 15 人
-    - 言語 | フレームワーク
-      - React | Ruby | Ruby on Rails | TypeScript
+    - 言語・フレームワーク
+      - React・Ruby・Ruby on Rails・TypeScript
     - ツール
-      - CircleCI | Docker | Docker Compose | Figma | GitHub | PostgreSQL | RSpec
+      - CircleCI・Docker・Docker Compose・Figma・GitHub・PostgreSQL・RSpec
     - 概要
       - バックエンドの保守・新機能開発を担当
       - サブタスクとして、フロントエンドのバグ修正・小規模の新機能開発も担当
