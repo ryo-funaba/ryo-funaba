@@ -35,8 +35,9 @@ coverage
 # Misc
 *.crx
 *.pem
-*.zip
+*.pdf
 *.provisionprofile
+*.zip
 
 # Storybook
 documentation.json

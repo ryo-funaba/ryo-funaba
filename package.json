@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "build:pdf": "md-to-pdf docs/README.md --config-file ./pdf-configs/config.js",
     "lint": "textlint . && markdownlint *.md **/*.md"
   },
   "repository": "git@github.com:ryo-funaba/ryo-funaba.git",
