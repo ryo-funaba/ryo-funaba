@@ -6,6 +6,16 @@
     <img src="https://github.com/ryo-funaba/ryo-funaba/actions/workflows/lint.yml/badge.svg?branch=main&event=push" alt="lint badge">
 </a>
 
+<a href="https://github.com/ryo-funaba/ryo-funaba/actions/workflows/pages/pages-build-deployment">
+    <img src="https://github.com/ryo-funaba/ryo-funaba/actions/workflows/pages/pages-build-deployment/badge.svg" alt="pages-build-deployment badge">
+</a>
+
+<a href="https://github.com/ryo-funaba/ryo-funaba/actions/workflows/build-pdf.yml">
+    <img src="https://github.com/ryo-funaba/ryo-funaba/actions/workflows/build-pdf.yml/badge.svg" alt="build-pdf badge">
+</a>
+
+[![release date](https://img.shields.io/github/release-date/ryo-funaba/ryo-funaba?color=blue&logo=github)](https://github.com/ryo-funaba/ryo-funaba/releases)
+
 # ⚡️ A Few Quick Facts
 
 <img align="right" alt="github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=ryo-funaba&show_icons=true&locale=en"/>
