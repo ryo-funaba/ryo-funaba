@@ -1,4 +1,4 @@
-name: build and release pdf
+name: release pdf
 
 on:
   pull_request:
@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    name: build and release pdf
+    name: release pdf
     runs-on: ubuntu-latest
     permissions:
       contents: write
