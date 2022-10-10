@@ -16,11 +16,21 @@
 - 🌱 最近は **Go と DevOps** を学んでいます
 - 📝 技術記事は [Zenn](https://zenn.dev/ryo_f) に投稿しています
 
+# 📝職務経歴書
+
+- [サイト版](https://ryo-funaba.github.io/ryo-funaba/)
+- [PDF 版](https://github.com/ryo-funaba/ryo-funaba/releases)
+- [Markdown 版](https://github.com/ryo-funaba/ryo-funaba/blob/main/docs/README.md?plain=1)
+
 # 🌟OSS コントリビュート
 
 - [textlint-rule-rousseau](https://github.com/textlint-rule/textlint-rule-rousseau)
   - [Issue](https://github.com/textlint-rule/textlint-rule-rousseau/issues/8)
   - [PR](https://github.com/textlint-rule/textlint-rule-rousseau/pull/10)
+
+# 💰OSS スポンサー
+
+- [textlint](https://github.com/textlint/textlint)
 
 # 🚀 使用ツール
 

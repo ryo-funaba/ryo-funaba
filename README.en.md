@@ -16,11 +16,21 @@
 - 🌱 I’m currently learning **Go and DevOps**
 - 📝 I regularly write articles on [Zenn](https://zenn.dev/ryo_f)
 
+# 📝Resume
+
+- [Site](https://ryo-funaba.github.io/ryo-funaba/)
+- [PDF](https://github.com/ryo-funaba/ryo-funaba/releases)
+- [Markdown](https://github.com/ryo-funaba/ryo-funaba/blob/main/docs/README.md?plain=1)
+
 # 🌟Contribute to OSS
 
 - [textlint-rule-rousseau](https://github.com/textlint-rule/textlint-rule-rousseau)
   - [Issue](https://github.com/textlint-rule/textlint-rule-rousseau/issues/8)
   - [PR](https://github.com/textlint-rule/textlint-rule-rousseau/pull/10)
+
+# 💰OSS sponsor
+
+- [textlint](https://github.com/textlint/textlint)
 
 # 🚀 Some Tools I Use
 
