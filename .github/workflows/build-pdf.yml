@@ -1,0 +1,35 @@
+name: build and release pdf
+
+on:
+  pull_request:
+    branches: [main]
+    paths: 'docs/README.md'
+
+jobs:
+  build:
+    name: build and release pdf
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: yarn
+      - run: yarn install
+      - name: build pdf
+        run: make build-pdf
+      - name: create a draft release
+        uses: release-drafter/release-drafter@v5
+        id: release-drafter
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: upload a release asset
+        uses: softprops/action-gh-release@v1
+        with:
+          files: docs/README.pdf
+          upload_url: ${{ steps.release-drafter.outputs.upload_url }}
