@@ -1,5 +1,7 @@
 name: lint
+
 on: push
+
 jobs:
   textlint:
     name: lint
@@ -12,7 +14,5 @@ jobs:
         with:
           node-version: 18
           cache: yarn
-      - name: yarn install
-        run: yarn install
-      - name: yarn lint
-        run: yarn lint
+      - run: yarn install
+      - run: yarn lint
