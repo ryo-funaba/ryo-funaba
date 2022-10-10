@@ -65,11 +65,6 @@
   - [Issue](https://github.com/textlint-rule/textlint-rule-rousseau/issues/8)
   - [PR](https://github.com/textlint-rule/textlint-rule-rousseau/pull/10)
 
-## 技術記事
-
-- Zenn
-  - 後で書く
-
 ## 職務経歴詳細
 
 - 受託開発企業
