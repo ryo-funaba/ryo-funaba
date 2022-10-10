@@ -65,6 +65,10 @@
   - [Issue](https://github.com/textlint-rule/textlint-rule-rousseau/issues/8)
   - [PR](https://github.com/textlint-rule/textlint-rule-rousseau/pull/10)
 
+## OSS スポンサー
+
+- [textlint](https://github.com/textlint/textlint)
+
 ## 職務経歴詳細
 
 - 受託開発企業
