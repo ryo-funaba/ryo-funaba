@@ -51,7 +51,7 @@
 
 - **クラウド**
   - AWS
-    - API Gateway・AppSync・Aurora・CloudWatch・Cognito・DynamoDB・ECR・ECS・EC2・Fargate・IAM・Lambda・SES・S3
+    - API Gateway・AppSync・Aurora・CloudWatch・Cognito・DynamoDB・ECR・ECS・EC2・Fargate・IAM・Lambda・SES・SQS・S3
 
 - **SaaS/PaaS**
   - Bitbucket・CircleCI・GitHub・GitHub Actions
@@ -83,7 +83,7 @@
       - Go・Serverless Framework
     - インフラ
       - AWS
-        - API Gateway・AppSync・Aurora・CloudWatch・Cognito・DynamoDB・ECR・ECS・EC2・Fargate・IAM・Lambda・SES・S3
+        - API Gateway・AppSync・Aurora・CloudWatch・Cognito・DynamoDB・ECR・ECS・EC2・Fargate・IAM・Lambda・SES・SQS・S3
     - ツール
       - Bitbucket・Docker・Docker Compose・GitHub・GitHub Actions・MySQL
     - 概要
@@ -112,6 +112,7 @@
         - AWS などの CI 上で環境を再現できないテストケースではモックを活用
       - Serverless Framework を使用したデプロイ作業
         - デプロイパッケージのサイズを最大 80% 削減したことで安全かつ迅速にデプロイできるよう改善
+      - Lambda + SQS を用いた非同期処理の実装
       - AppSync + Lambda + DynamoDB を使用した GraphQL 及びリゾルバーの作成
       - AppSync のパイプラインリゾルバー活用した複数オペレーションの作成
       - コーディング規約の作成
