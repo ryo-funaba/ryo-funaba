@@ -27,6 +27,10 @@
       "sentence-length": {
         "max": 150
       },
+      "max-kanji-continuous-len": {
+        "max": 6,
+        "allow": ["普通自動車第一種運転免許"]
+      },
       "no-exclamation-question-mark": false,
       "ja-no-weak-phrase": false,
       "ja-no-successive-word": false,
