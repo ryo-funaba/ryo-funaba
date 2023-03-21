@@ -118,10 +118,10 @@
   dependencies:
     any-observable "^0.3.0"
 
-"@textlint-ja/textlint-rule-no-dropping-i@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@textlint-ja/textlint-rule-no-dropping-i/-/textlint-rule-no-dropping-i-2.0.0.tgz#f165e05466664d2f1d852a25811dfc688d3498a6"
-  integrity sha512-4GPnXUYWXy347XBQ6q7XxzmZBo+4j+1f8bLpwMXPMSiO7XfAyVEjM03DfjxMHF3RMPLmodkXCuj30d35kQQgkA==
+"@textlint-ja/textlint-rule-no-dropping-i@^2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@textlint-ja/textlint-rule-no-dropping-i/-/textlint-rule-no-dropping-i-2.0.1.tgz#56b51769e28451d87bb31680d40642c68822c48f"
+  integrity sha512-kdUw+npS/n0b8/yYQzNvlQaL5gLKZv2z4W1RvNkbUOon9CaVN6zKZqbCYy/zplfU27q/GA12qu4jFti577k7yg==
   dependencies:
     kuromojin "^3.0.0"
     textlint-rule-helper "^2.1.1"
