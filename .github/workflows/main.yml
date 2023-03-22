@@ -1,9 +1,6 @@
-name: Release PDF
+name: CI
 
-on:
-  pull_request:
-    branches: [main]
-    paths: 'docs/README.md'
+on: [pull_request]
 
 jobs:
   setup:
@@ -31,15 +28,12 @@ jobs:
           path: |
             node_modules
           key: node-${{ github.sha }}
-  release:
-    name: Release PDF
+  lint:
+    name: Lint
     runs-on: ubuntu-latest
     timeout-minutes: 3
     needs:
       - setup
-    permissions:
-      contents: write
-      pull-requests: write
     steps:
       - uses: actions/checkout@v3
         with:
@@ -53,13 +47,5 @@ jobs:
           path: |
             node_modules
           key: node-${{ github.sha }}
-      - name: Build PDF
-        run: make build-pdf
-      - name: Create a draft release
-        uses: softprops/action-gh-release@v1
-        with:
-          body: ${{ github.event.pull_request.title }}
-          draft: true
-          fail_on_unmatched_files: true
-          files: docs/README.pdf
-          name: Release ${{ github.ref }}
+      - name: Run lint
+        run: yarn lint

@@ -1,4 +1,4 @@
-name: create issue
+name: Create issue
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
 
 jobs:
   build:
-    name: create issue
+    name: Create issue
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
