@@ -2,18 +2,9 @@
 
 [<a href="README.en.md">English</a> | 日本語</a>]
 
-<a href="https://github.com/ryo-funaba/ryo-funaba/actions/workflows/lint.yml">
-    <img src="https://github.com/ryo-funaba/ryo-funaba/actions/workflows/lint.yml/badge.svg?branch=main&event=push" alt="lint badge">
-</a>
-
-<a href="https://github.com/ryo-funaba/ryo-funaba/actions/workflows/pages/pages-build-deployment">
-    <img src="https://github.com/ryo-funaba/ryo-funaba/actions/workflows/pages/pages-build-deployment/badge.svg" alt="pages-build-deployment badge">
-</a>
-
-<a href="https://github.com/ryo-funaba/ryo-funaba/actions/workflows/build-pdf.yml">
-    <img src="https://github.com/ryo-funaba/ryo-funaba/actions/workflows/build-pdf.yml/badge.svg" alt="build-pdf badge">
-</a>
-
+[![CI](https://github.com/ryo-funaba/ryo-funaba/actions/workflows/main.yml/badge.svg)](https://github.com/ryo-funaba/ryo-funaba/actions/workflows/main.yml)
+[![PDF](https://github.com/ryo-funaba/ryo-funaba/actions/workflows/build-pdf.yml/badge.svg)](https://github.com/ryo-funaba/ryo-funaba/actions/workflows/build-pdf.yml)
+[![Deploy](https://github.com/ryo-funaba/ryo-funaba/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ryo-funaba/ryo-funaba/actions/workflows/pages/pages-build-deployment)
 [![release date](https://img.shields.io/github/release-date/ryo-funaba/ryo-funaba?color=blue&logo=github)](https://github.com/ryo-funaba/ryo-funaba/releases)
 
 # ⚡️ 基本情報
