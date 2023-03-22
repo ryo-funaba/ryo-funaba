@@ -1,4 +1,4 @@
-name: release pdf
+name: Release PDF
 
 on:
   pull_request:
@@ -6,9 +6,37 @@ on:
     paths: 'docs/README.md'
 
 jobs:
-  build:
-    name: release pdf
+  setup:
+    name: Setup
     runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - uses: actions/cache@v2
+        id: node_modules_cache_id
+        with:
+          path: |
+            node_modules
+          key: node-deps-${{ hashFiles(format('{0}{1}', github.workspace, '/yarn.lock')) }}
+      - name: Run yarn install
+        run: yarn --check-files --frozen-lockfile --non-interactive
+      - name: Cache workspace
+        uses: actions/cache@v3
+        with:
+          path: |
+            node_modules
+          key: node-${{ github.sha }}
+  release:
+    name: Release PDF
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    needs:
+      - setup
     permissions:
       contents: write
       pull-requests: write
@@ -19,9 +47,13 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 18
-          cache: yarn
-      - run: yarn install
-      - name: Build pdf
+      - name: Restore workspace cache
+        uses: actions/cache@v3
+        with:
+          path: |
+            node_modules
+          key: node-${{ github.sha }}
+      - name: Build PDF
         run: make build-pdf
       - name: Create a draft release
         uses: softprops/action-gh-release@v1
