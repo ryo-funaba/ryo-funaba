@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@master
-      with:
-        feed_list: "https://zenn.dev/ryo_f/feed"
-        max_post_count: "5"
-        readme_path: "./README.md,./README.en.md"
+        with:
+          feed_list: "https://zenn.dev/ryo_f/feed"
+          max_post_count: "5"
+          readme_path: "./README.md,./README.en.md"
