@@ -43,6 +43,11 @@
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </p>
 
+# 📘 ブログ記事
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 # 💁‍♂️ 私について
 
 ## ❤️ 好きなこと
