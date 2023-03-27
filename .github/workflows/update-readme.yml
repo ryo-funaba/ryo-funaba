@@ -1,0 +1,22 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Run blog-post-workflow
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@master
+      with:
+        feed_list: "https://zenn.dev/ryo_f/feed"
+        max_post_count: "5"
+        readme_path: "./README.md,./README.en.md"
