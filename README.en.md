@@ -15,7 +15,7 @@
 
 - 💼 I’m currently working at **a contract development company**
 - 🌱 I’m currently learning **Go and DevOps**
-- 📝 I regularly write articles on [Zenn](https://zenn.dev/ryo_f)
+- 📘 I regularly write articles on [Zenn](https://zenn.dev/ryo_f)
 
 # 📝Resume
 
@@ -45,8 +45,10 @@
 
 # 📘 Blog posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [An idea to manage your resume on GitHub](https://zenn.dev/ryo_f/articles/2f925f621e6d99)
+- [AWS mock tests in Go](https://zenn.dev/ryo_f/articles/9714348cc2483b)
+- [The three best dev apps](https://zenn.dev/ryo_f/articles/f63b0bffe2eb77)
+- [Clone private repositories at Docker build time](https://zenn.dev/ryo_f/articles/27f223203481ef)
 
 # 💁‍♂️ About me
 
