@@ -13,7 +13,7 @@
 
 <img alt="profile-views-counter" src="https://komarev.com/ghpvc/?username=ryo-funaba&label=Profile%20views&color=0e75b6&style=flat"/>
 
-- 💼 I’m currently working at **a contract development company**
+- 💼 I’m currently working at **a SaaS company**
 - 🌱 I’m currently learning **Go and DevOps**
 - 📘 I regularly write articles on [Zenn](https://zenn.dev/ryo_f)
 
