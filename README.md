@@ -13,7 +13,7 @@
 
 <img alt="profile-views-counter" src="https://komarev.com/ghpvc/?username=ryo-funaba&label=閲覧数&color=0e75b6&style=flat" alt="ryo-funaba" />
 
-- 💼  **受託開発企業** で働いています
+- 💼  **自社開発企業** で働いています
 - 🌱 最近は **Go と DevOps** を学んでいます
 - 📘 技術記事は [Zenn](https://zenn.dev/ryo_f) に投稿しています
 
