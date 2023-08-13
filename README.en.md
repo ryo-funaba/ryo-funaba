@@ -60,8 +60,8 @@
 
 ## 📚 My Favorite Book Ranking
 
-- 🥇[What the first year of consultants learn](https://www.amazon.co.jp/dp/B00MA671WW)
-- 🥈[Leadership and the One Minute Manager](https://www.amazon.co.jp/dp/4478029288)
+- 🥇[The Agile Samurai](https://www.amazon.co.jp/dp/4274068560)
+- 🥈[What the first year of consultants learn](https://www.amazon.co.jp/dp/B00MA671WW)
 - 🥉[The Technology Behind the Web](https://www.amazon.co.jp/dp/B07JK7FZH2)
 
 ## 🎥 My Favorite Movie Ranking

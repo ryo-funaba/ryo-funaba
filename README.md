@@ -50,8 +50,6 @@
 - [開発における3種の神器](https://zenn.dev/ryo_f/articles/f63b0bffe2eb77)
 - [Dockerビルド時にプライベートリポジトリをクローンする](https://zenn.dev/ryo_f/articles/27f223203481ef)
 
-<!-- BLOG-POST-LIST:END -->
-
 # 💁‍♂️ 私について
 
 ## ❤️ 好きなこと
@@ -62,8 +60,8 @@
 
 ## 📚 好きな書籍ランキング
 
-- 🥇[コンサル一年目が学ぶこと](https://www.amazon.co.jp/dp/B00MA671WW)
-- 🥈[新1分間リーダーシップ: どんな部下にも通用する4つの方法](https://www.amazon.co.jp/dp/4478029288)
+- 🥇[アジャイルサムライ](https://www.amazon.co.jp/dp/4274068560)
+- 🥈[コンサル一年目が学ぶこと](https://www.amazon.co.jp/dp/B00MA671WW)
 - 🥉[Webを支える技術](https://www.amazon.co.jp/dp/B07JK7FZH2)
 
 ## 🎥 好きな映画ランキング
