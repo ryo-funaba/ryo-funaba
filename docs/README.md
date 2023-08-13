@@ -12,13 +12,11 @@
 
 ## バリューを発揮しやすい業務
 
-- CI の導入
-- Linter や Formatter の導入
-- サーバレスアーキテクチャの導入
 - ジュニアメンバーの育成・サポート
+- オンボーディングプロセスの改善
 - ドキュメント作成
+- CI の導入
 - ローカル環境のコンテナ化
-- ユニットテストの導入
 
 ## バリューを発揮しやすい環境
 
@@ -29,16 +27,16 @@
 
 ## 意欲・興味
 
-- DevOps に貢献し、組織とシステムの価値を最大限向上させること
-  - 技術面
-    - インフラ環境のコード化、自動デプロイ、自動テスト
-  - 組織面
-    - 心理的安全性を高め、部門間のコミュニケーションを活性化すること
-- エンジニアの組織作り
-  - エンジニアが中長期的に高い生産性で楽しく開発するための土台作り
-    - 定期的なランチ会の開催・徹底した作業の自動化・豊富な社内ドキュメントの作成など
+- プロダクトの価値を高め、LTV の向上に寄与すること
+  - エンジニア出身者として、ロードマップや新機能の改善策を提案する
+  - DevOps を改善し、迅速に市場投入する体制を作る
+  - 豊富なドキュメントを用意し、社員を含めたステークホルダーのプロダクトへの解像度を上げる
 
 ## スキル
+
+### 開発手法
+
+スクラム開発・チケット駆動開発
 
 ### 言語
 
@@ -47,6 +45,10 @@ Go・JavaScript・Ruby・TypeScript
 ### フレームワーク等
 
 React・Ruby on Rails・Serverless Framework
+
+### 通信プロトコル
+
+GraphQL・gRPC・REST
 
 ### RDB
 
@@ -58,7 +60,7 @@ MySQL・PostgreSQL
 
 API Gateway・AppSync・Aurora・CloudWatch・Cognito・DynamoDB・ECR・ECS・EC2・Fargate・IAM・Lambda・SES・SQS・S3
 
-#### GCP
+#### Google Cloud
 
 Cloud Build・Cloud Pub/Sub・Cloud Run・Cloud SQL・GKE・Memorystore for Redis・Secret Manager
 
@@ -85,6 +87,85 @@ Docker・GraphQL・gRPC・OpenAPI・RSpec・Terraform
 - [Zenn](https://zenn.dev/ryo_f)
 
 ## 職務経歴詳細
+
+### セールステック系スタートアップ企業
+
+#### 営業支援プロダクト
+
+【雇用形態】
+
+正社員
+
+【在籍期間】
+
+2023/04/01 ~ 現在
+
+【チーム編成】
+
+- VP of SRE 1 人
+- PdM 1 人
+- 正社員エンジニア 3 人
+- 業務委託エンジニア 2 人
+
+【言語】
+
+- Go
+
+【インフラ】
+
+- Google Cloud
+  - Cloud Build・Cloud Pub/Sub・Cloud Run・Cloud SQL・GKE・Memorystore for Redis・Secret Manager
+
+【通信プロトコル】
+
+- gRPC
+- REST
+
+【ツール】
+
+Argo CD・Docker・Firestore・GitHub・GitHub Actions・HubSpot・PostgreSQL・OpenAPI・Salesforce・Terraform
+
+【プロダクトが属する業界】
+
+セールステック業界
+
+【プロダクト概要】
+
+蓄積された営業データを活用することで、営業担当者に最善のアクションを提示し売上向上をサポートするアプリケーション。
+
+従来の営業組織では、データを蓄積するものの適切に分析・活用する業務に大きな属人性が発生していた。
+
+データ分析や次に取るべきアクションの提案などを全てアプリケーションが行うことで、属人性を解消するだけでなく、営業活動量の増加に貢献できる。
+
+さらに Salesforce・Google Workspace・Twilio といった外部サービスと連携することで営業活動の精度を高めることができる。
+
+【チームでの役割】
+
+スクラム体制の中、バックエンドの保守・運用・新規機能開発を担当。
+
+また、業務委託メンバーのオンボーディング、レビュー、タスク管理を担当。
+
+手を動かすだけの開発だけではなく、PdM との要件定義・設計・実装・テスト・リリース作業を担当した。
+
+具体的なタスクは以下のとおり。
+
+- PdM と要件を擦り合わせてタスク化し、業務委託にタスクを依頼
+- ドキュメント作成
+- オンボーディングプロセスの改善
+  - 新規メンバーが初日からすぐに業務に取り組めるようオンボーディングを改善
+- 環境構築の改善
+  - 15 分を要していた環境構築が 1 分に短縮
+- Go + クリーンアーキテクチャを用いた各種 API の作成
+- テストコードの実装
+  - Salesforce などの CI 上で環境を再現できないテストケースではモックを活用
+
+【チームの課題と自身が工夫したこと】
+
+入社当初は、新規導入企業の受け入れ時にエンジニアが手動で本番 DB の更新作業を実施するという、非効率かつリスクある作業が発生していた。
+
+そこで DB を更新する API を作成したことで、エンジニアが安全かつスムーズに受け入れ準備を進められるよう業務を効率化した。
+
+改善策は全てドキュメントとして作成し、チームに共有することで、迅速に新規導入企業がプロダクトを利用できるよう改善された。
 
 ### 受託開発企業
 
@@ -122,6 +203,10 @@ Docker・GraphQL・gRPC・OpenAPI・RSpec・Terraform
 - AWS
   - API Gateway・AppSync・Aurora・CloudWatch・Cognito・DynamoDB・ECR・ECS・EC2・Fargate・IAM・Lambda・SES・SQS・S3
 
+【通信プロトコル】
+
+- GraphQL
+
 【ツール】
 
 Bitbucket・Docker・GitHub・GitHub Actions・MySQL・Redmine
@@ -152,8 +237,7 @@ Bitbucket・Docker・GitHub・GitHub Actions・MySQL・Redmine
 
 バックエンドの保守・運用・新規機能開発を担当。
 
-手を動かすだけの開発だけではなく、要件定義・設計・
-実装・テスト・リリース作業も担当した。
+手を動かすだけの開発だけではなく、要件定義・設計・実装・テスト・リリース作業も担当した。
 
 具体的なタスクは以下のとおり。
 
@@ -203,7 +287,7 @@ Bitbucket・Docker・GitHub・GitHub Actions・MySQL・Redmine
 - チームの心理的安全性を高める施策の計画/実行
   - 具体的には定期的な声掛けやランチ等での雑談を通したお互いの理解を深めるアクションを取ったことで、メンバー間のコミュニケーションが活性化し、それがチーム全体の開発力の底上げに繋がった
 
-### 医療系スタートアップ企業
+### ヘルステック系スタートアップ企業
 
 #### オンライン服薬プロダクト
 
@@ -226,6 +310,10 @@ Bitbucket・Docker・GitHub・GitHub Actions・MySQL・Redmine
 - Ruby on Rails
 - TypeScript
 - React
+
+【通信プロトコル】
+
+- REST
 
 【ツール】
 
