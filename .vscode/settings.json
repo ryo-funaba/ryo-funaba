@@ -13,5 +13,6 @@
     "MD033":false, // インラインHTML
     "MD034": false, // 裸のURL
     "MD041":false // ファイルの最初の行は、トップレベルの見出しにする
-  }
+  },
+  "textlint.configPath": "./config/.textlintrc",
 }

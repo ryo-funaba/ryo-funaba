@@ -1,0 +1,67 @@
+{
+  "filters": {
+    "comments": true
+  },
+  "rules": {
+    "apostrophe": true,
+    "doubled-spaces": true,
+    "ja-hiragana-hojodoushi": true,
+    "ja-nakaguro-or-halfwidth-space-between-katakana": true,
+    "ja-no-abusage": true,
+    "ja-no-mixed-period": false,
+    "ja-no-space-around-parentheses": true,
+    "ja-no-space-between-full-width": true,
+    "ja-space-after-exclamation": true,
+    "ja-space-after-question": true,
+    "ja-space-around-code": {
+      "before": true,
+      "after": true
+    },
+    "ja-space-around-link": {
+      "before": true,
+      "after": true
+    },
+    "ja-unnatural-alphabet": true,
+    "max-comma": {
+      "max" : 4
+    },
+    "max-kanji-continuous-len": {
+      "max": 6,
+      "allow": ["普通自動車第一種運転免許"]
+    },
+    "max-ten": true,
+    "no-doubled-conjunction": true,
+    "no-doubled-conjunctive-particle-ga": true,
+    "no-doubled-joshi": true,
+    "no-double-negative-ja": true,
+    "no-dropping-the-ra": true,
+    "no-mixed-zenkaku-and-hankaku-alphabet": true,
+    "no-nfd": true,
+    "period-in-list-item": true,
+    "prefer-tari-tari": true,
+    "prh": {
+      "rulePaths": [
+        "./prh.yml"
+      ]
+    },
+    "rousseau": {
+      "showLevels": ["suggestion", "warning", "error"],
+      "ignoreTypes": ["adverbs", "readibility", "sentence:start", "sentence:uppercase"]
+    },
+    "sentence-length": {
+      "max": 150
+    },
+    "terminology": {
+      "defaultTerms": true
+    },
+    "use-si-units": {
+      "allowedUnits": ["%"],
+      "restrictNonSIUnits": true
+    },
+    "@textlint-ja/textlint-rule-no-dropping-i": true,
+    "@textlint-ja/textlint-rule-no-insert-dropping-sa": true,
+    "@proofdict/proofdict": {
+      "dictURL": "https://azu.github.io/proof-dictionary/"
+    }
+  }
+}
