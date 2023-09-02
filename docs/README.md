@@ -72,15 +72,16 @@ Argo CD・Bitbucket・CircleCI・Firestore・GitHub・GitHub Actions・HubSpot�
 
 Docker・GraphQL・gRPC・OpenAPI・RSpec・Terraform
 
+## OSS スポンサー
+
+- [textlint](https://github.com/textlint/textlint)
+- [markdownlint](https://github.com/DavidAnson/markdownlint)
+
 ## OSS コントリビュート
 
 - [textlint-rule-rousseau](https://github.com/textlint-rule/textlint-rule-rousseau)
   - [Issue](https://github.com/textlint-rule/textlint-rule-rousseau/issues/8)
   - [PR](https://github.com/textlint-rule/textlint-rule-rousseau/pull/10)
-
-## OSS スポンサー
-
-- [textlint](https://github.com/textlint/textlint)
 
 ## 技術記事
 
