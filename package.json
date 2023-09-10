@@ -4,7 +4,7 @@
   "main": "README.md",
   "scripts": {
     "build:pdf": "md-to-pdf docs/README.md --config-file ./pdf-configs/config.js",
-    "lint": "textlint -c ./config/.textlintrc . && markdownlint *.md **/*.md"
+    "lint": "textlint -c ./config/.textlintrc . && markdownlint -c ./config/.markdownlint.jsonc *.md **/*.md"
   },
   "repository": "git@github.com:ryo-funaba/ryo-funaba.git",
   "author": "Ryo Funaba <ryo278.0417@gmail.com>",
