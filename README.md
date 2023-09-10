@@ -1,6 +1,6 @@
-<img align="center" alt="title image" src="./image/title_img.gif" width="100%"/>
+![title image](image/title_img.gif)
 
-[<a href="README.en.md">English</a> | 日本語</a>]
+[English](README.en.md) | 日本語
 
 [![CI](https://github.com/ryo-funaba/ryo-funaba/actions/workflows/ci.yml/badge.svg)](https://github.com/ryo-funaba/ryo-funaba/actions/workflows/ci.yml)
 [![PDF](https://github.com/ryo-funaba/ryo-funaba/actions/workflows/release-pdf.yml/badge.svg)](https://github.com/ryo-funaba/ryo-funaba/actions/workflows/release-pdf.yml)
@@ -9,9 +9,7 @@
 
 # ⚡️ 基本情報
 
-<img align="right" alt="github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=ryo-funaba&show_icons=true&locale=en" alt="ryo-funaba" />
-
-<img alt="profile-views-counter" src="https://komarev.com/ghpvc/?username=ryo-funaba&label=閲覧数&color=0e75b6&style=flat" alt="ryo-funaba" />
+![profile-views-counter](https://komarev.com/ghpvc/?username=ryo-funaba&label=閲覧数&color=0e75b6&style=flat)
 
 - 💼 **自社開発企業** で働いています
 - 🌱 最近は **Go と DevOps** を学んでいます
@@ -36,13 +34,11 @@
 
 # 🚀 使用ツール
 
-<p>
-  <img alt="Go" src="https://img.shields.io/badge/-Go-42b0a5?style=flat-square&logo=go&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-ca7d28?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-</p>
+![Go](https://img.shields.io/badge/-Go-42b0a5?style=flat-square&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-ca7d28?style=flat-square&logo=mysql&logoColor=white)
+![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 # 📘 ブログ記事
 

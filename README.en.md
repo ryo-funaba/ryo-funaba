@@ -1,6 +1,6 @@
-<img align="center" alt="title image" src="./image/title_img.gif" width="100%"/>
+![title image](image/title_img.gif)
 
-[English | <a href="README.md">日本語</a>]
+English | [日本語](README.md)
 
 [![CI](https://github.com/ryo-funaba/ryo-funaba/actions/workflows/ci.yml/badge.svg)](https://github.com/ryo-funaba/ryo-funaba/actions/workflows/ci.yml)
 [![PDF](https://github.com/ryo-funaba/ryo-funaba/actions/workflows/release-pdf.yml/badge.svg)](https://github.com/ryo-funaba/ryo-funaba/actions/workflows/release-pdf.yml)
@@ -9,9 +9,7 @@
 
 # ⚡️ A Few Quick Facts
 
-<img align="right" alt="github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=ryo-funaba&show_icons=true&locale=en"/>
-
-<img alt="profile-views-counter" src="https://komarev.com/ghpvc/?username=ryo-funaba&label=Profile%20views&color=0e75b6&style=flat"/>
+![profile-views-counter](https://komarev.com/ghpvc/?username=ryo-funaba&label=閲覧数&color=0e75b6&style=flat)
 
 - 💼 I’m currently working at **a SaaS company**
 - 🌱 I’m currently learning **Go and DevOps**
@@ -36,13 +34,11 @@
 
 # 🚀 Some Tools I Use
 
-<p>
-  <img alt="Go" src="https://img.shields.io/badge/-Go-42b0a5?style=flat-square&logo=go&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-ca7d28?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-</p>
+![Go](https://img.shields.io/badge/-Go-42b0a5?style=flat-square&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-ca7d28?style=flat-square&logo=mysql&logoColor=white)
+![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 # 📘 Blog posts
 
