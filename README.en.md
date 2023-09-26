@@ -9,7 +9,7 @@ English | [日本語](README.md)
 
 # ⚡️ A Few Quick Facts
 
-![profile-views-counter](https://komarev.com/ghpvc/?username=ryo-funaba&label=閲覧数&color=0e75b6&style=flat)
+![profile-views-counter](https://komarev.com/ghpvc/?username=ryo-funaba&label=view_count&color=0e75b6&style=flat)
 
 - 💼 I’m currently working at **a SaaS company**
 - 🌱 I’m currently learning **Go and DevOps**
