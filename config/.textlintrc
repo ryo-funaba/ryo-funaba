@@ -8,7 +8,6 @@
     "ja-hiragana-hojodoushi": true,
     "ja-nakaguro-or-halfwidth-space-between-katakana": true,
     "ja-no-abusage": true,
-    "ja-no-mixed-period": false,
     "ja-no-redundant-expression": true,
     "ja-no-space-around-parentheses": true,
     "ja-no-space-between-full-width": true,

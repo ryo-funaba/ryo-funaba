@@ -22,7 +22,6 @@
     "textlint-rule-ja-hiragana-hojodoushi": "^1.1.0",
     "textlint-rule-ja-nakaguro-or-halfwidth-space-between-katakana": "^2.2.0",
     "textlint-rule-ja-no-abusage": "^3.0.0",
-    "textlint-rule-ja-no-mixed-period": "^3.0.1",
     "textlint-rule-ja-no-redundant-expression": "^4.0.1",
     "textlint-rule-ja-no-space-around-parentheses": "^2.2.0",
     "textlint-rule-ja-no-space-between-full-width": "^2.2.0",
