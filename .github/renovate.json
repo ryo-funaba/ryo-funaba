@@ -1,0 +1,30 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:best-practices",
+    ":automergeDigest",
+    ":automergeMinor",
+    ":prConcurrentLimitNone",
+    ":prHourlyLimitNone",
+    "schedule:daily",
+    "schedule:automergeDaily",
+    ":separateMultipleMajorReleases",
+    ":timezone(Asia/Tokyo)"
+  ],
+  "dependencyDashboard": false,
+  "labels": [
+    "renovate"
+  ],
+  "major": {
+    "labels": [
+      "renovate",
+      "update_major"
+    ]
+  },
+  "packageRules": [
+    {
+      "matchDatasources": ["npm"],
+      "minimumReleaseAge": "3 days"
+    }
+  ]
+}
