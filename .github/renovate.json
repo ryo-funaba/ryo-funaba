@@ -11,7 +11,7 @@
     ":separateMultipleMajorReleases",
     ":timezone(Asia/Tokyo)"
   ],
-  "dependencyDashboard": false,
+  "dependencyDashboard": true,
   "labels": [
     "renovate"
   ],
