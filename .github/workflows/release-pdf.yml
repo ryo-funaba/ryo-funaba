@@ -16,7 +16,7 @@ jobs:
       - uses: actions/setup-node@b39b52d1213e96004bfcb1c61a8a6fa8ab84f3e8 # v4
         with:
           node-version: 18
-      - uses: actions/cache@v3
+      - uses: actions/cache@704facf57e6136b1bc63b828d79edcd491f0ee84 # v3
         id: node_modules_cache_id
         with:
           path: |
@@ -25,7 +25,7 @@ jobs:
       - name: Run yarn install
         run: yarn --check-files --frozen-lockfile --non-interactive
       - name: Cache workspace
-        uses: actions/cache@v3
+        uses: actions/cache@704facf57e6136b1bc63b828d79edcd491f0ee84 # v3
         with:
           path: |
             node_modules
@@ -45,7 +45,7 @@ jobs:
         with:
           node-version: 18
       - name: Restore workspace cache
-        uses: actions/cache@v3
+        uses: actions/cache@704facf57e6136b1bc63b828d79edcd491f0ee84 # v3
         with:
           path: |
             node_modules
@@ -53,7 +53,7 @@ jobs:
       - name: Build PDF
         run: make build-pdf
       - name: Create a draft release
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@de2c0eb89ae2a093876385947365aca7b0e5f844 # v1
         with:
           body: ${{ github.event.pull_request.title }}
           draft: true
