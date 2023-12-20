@@ -13,7 +13,7 @@ jobs:
       - name: Run actions/checkout
         uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4
       - name: Run oven-sh/setup-bun
-        uses: oven-sh/setup-bun@v1
+        uses: oven-sh/setup-bun@a1800f471a0bc25cddac36bb13e6f436ddf341d7 # v1
       - name: Run bun install
         run: bun install --no-save
       - name: Run bun lint
