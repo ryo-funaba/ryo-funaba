@@ -21,6 +21,10 @@
       "before": true,
       "after": true
     },
+    "ja-space-between-half-and-full-width": {
+      "space": "always",
+      "lintStyledNode": true
+    },
     "ja-unnatural-alphabet": true,
     "max-comma": {
       "max" : 4
@@ -60,6 +64,7 @@
     },
     "@textlint-ja/textlint-rule-no-dropping-i": true,
     "@textlint-ja/textlint-rule-no-insert-dropping-sa": true,
+    "@textlint-rule/no-unmatched-pair": true,
     "@proofdict/proofdict": {
       "dictURL": "https://azu.github.io/proof-dictionary/"
     }
