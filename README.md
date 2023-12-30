@@ -42,10 +42,10 @@
 
 # 📘 ブログ記事
 
-- [職務経歴書をGitHubで管理するノウハウ](https://zenn.dev/ryo_f/articles/2f925f621e6d99)
-- [GoでAWSのモックテストを書く](https://zenn.dev/ryo_f/articles/9714348cc2483b)
-- [開発における3種の神器](https://zenn.dev/ryo_f/articles/f63b0bffe2eb77)
-- [Dockerビルド時にプライベートリポジトリをクローンする](https://zenn.dev/ryo_f/articles/27f223203481ef)
+- [職務経歴書を GitHub で管理するノウハウ](https://zenn.dev/ryo_f/articles/2f925f621e6d99)
+- [Go で AWS のモックテストを書く](https://zenn.dev/ryo_f/articles/9714348cc2483b)
+- [開発における 3 種の神器](https://zenn.dev/ryo_f/articles/f63b0bffe2eb77)
+- [Docker ビルド時にプライベートリポジトリをクローンする](https://zenn.dev/ryo_f/articles/27f223203481ef)
 
 # 💁‍♂️ 私について
 
@@ -59,7 +59,7 @@
 
 - 🥇[アジャイルサムライ](https://www.amazon.co.jp/dp/4274068560)
 - 🥈[コンサル一年目が学ぶこと](https://www.amazon.co.jp/dp/B00MA671WW)
-- 🥉[Webを支える技術](https://www.amazon.co.jp/dp/B07JK7FZH2)
+- 🥉[Web を支える技術](https://www.amazon.co.jp/dp/B07JK7FZH2)
 
 ## 🎥 好きな映画ランキング
 
