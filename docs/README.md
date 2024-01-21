@@ -103,10 +103,10 @@ Datadog・Docker・GraphQL・gRPC・OpenAPI・RSpec・Terraform
 
 【チーム編成】
 
-VP of Engineering 1 人
-PdM 1 人
-正社員エンジニア 3 人
-業務委託エンジニア 2 人
+- VP of Engineering 1 人
+- PdM 1 人
+- 正社員エンジニア 3 人
+- 業務委託エンジニア 2 人
 
 【言語】
 
@@ -183,17 +183,17 @@ Argo CD・Datadog・Docker・Firestore・GitHub・GitHub Actions・HubSpot・Pos
 
 【チーム編成】
 
-PM 1 人
-バックエンドエンジニア 2 人
-フロントエンドエンジニア 2 人
-営業マネージャー 1 人
-営業アシスタント 1 人
+- PM 1 人
+- バックエンドエンジニア 2 人
+- フロントエンドエンジニア 2 人
+- 営業マネージャー 1 人
+- 営業アシスタント 1 人
 
 【ステークホルダー】
 
-クライアント 1 社
-開発元企業 1 社
-賃貸管理システム提供企業 2 社
+- クライアント 1 社
+- 開発元企業 1 社
+- 賃貸管理システム提供企業 2 社
 
 【言語・フレームワーク】
 
@@ -302,8 +302,8 @@ Bitbucket・Docker・GitHub・GitHub Actions・MySQL・Redmine
 
 【チーム編成】
 
-エンジニア 5 人
-デザイナー 2 人
+- エンジニア 5 人
+- デザイナー 2 人
 
 【言語・フレームワーク】
 
