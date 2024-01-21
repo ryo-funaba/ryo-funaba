@@ -12,18 +12,18 @@
 
 ## バリューを発揮しやすい業務
 
+- ステークホルダーを巻き込んだ要求・要件定義の整理
+- 本質的なユーザーの課題解決を考慮したうえでの設計~リリース作業
+- トイルの可視化・改善
 - ジュニアメンバーの育成・サポート
-- オンボーディングプロセスの改善
 - ドキュメント作成
-- CI の導入
-- ローカル環境のコンテナ化
 
 ## バリューを発揮しやすい環境
 
+- チームが How (解決手段) にとらわれることなく、プロダクトの Why (課題) や What (提供価値) に向き合っている
+- 日々のチームの意思決定において、本質的な課題解決であるかどうかを重要な基準としている
 - チーム全体がポジティブ思考
 - 気軽に雑談できる心理的安全性の高いチーム
-- フレックスタイム制
-- 週 3 出社が可能
 
 ## 意欲・興味
 
@@ -62,7 +62,7 @@ API Gateway・AppSync・Aurora・CloudWatch・Cognito・DynamoDB・ECR・ECS・E
 
 #### Google Cloud
 
-Cloud Build・Cloud Pub/Sub・Cloud Run・Cloud SQL・GKE・Memorystore for Redis・Secret Manager
+Cloud Build・Cloud Pub/Sub・Cloud Run・Cloud SQL・Cloud Tasks・GKE・Secret Manager
 
 ### SaaS/PaaS
 
@@ -70,7 +70,7 @@ Argo CD・Bitbucket・CircleCI・Firestore・GitHub・GitHub Actions・HubSpot�
 
 ### その他
 
-Docker・GraphQL・gRPC・OpenAPI・RSpec・Terraform
+Datadog・Docker・GraphQL・gRPC・OpenAPI・RSpec・Terraform
 
 ## OSS スポンサー
 
@@ -103,28 +103,27 @@ Docker・GraphQL・gRPC・OpenAPI・RSpec・Terraform
 
 【チーム編成】
 
-- VP of SRE 1 人
-- PdM 1 人
-- 正社員エンジニア 3 人
-- 業務委託エンジニア 2 人
+VP of Engineering 1 人
+PdM 1 人
+正社員エンジニア 3 人
+業務委託エンジニア 2 人
 
 【言語】
 
-- Go
+Go
 
 【インフラ】
 
 - Google Cloud
-  - Cloud Build・Cloud Pub/Sub・Cloud Run・Cloud SQL・GKE・Memorystore for Redis・Secret Manager
+  - Cloud Build・Cloud Pub/Sub・Cloud Run・Cloud SQL・Cloud Tasks・GKE・Secret Manager
 
 【通信プロトコル】
 
-- gRPC
-- REST
+gRPC・REST
 
 【ツール】
 
-Argo CD・Docker・Firestore・GitHub・GitHub Actions・HubSpot・PostgreSQL・OpenAPI・Salesforce・Terraform
+Argo CD・Datadog・Docker・Firestore・GitHub・GitHub Actions・HubSpot・PostgreSQL・OpenAPI・Salesforce・Terraform
 
 【プロダクトが属する業界】
 
@@ -142,11 +141,13 @@ Argo CD・Docker・Firestore・GitHub・GitHub Actions・HubSpot・PostgreSQL・
 
 【チームでの役割】
 
-スクラム体制の中、バックエンドの保守・運用・新規機能開発を担当。
+スクラム体制の中、手を動かすだけの開発だけではなく、PdM との要求定義・設計・実装・テスト・リリース作業を担当した。
 
 また、業務委託メンバーのオンボーディング、レビュー、タスク管理を担当。
 
-手を動かすだけの開発だけではなく、PdM との要件定義・設計・実装・テスト・リリース作業を担当した。
+受け身で PdM からの要望を実現するのではなく、よりユーザーにインパクトを残せる手段がないか PdM と議論を交わすことを重視した。
+
+課題への解像度を上げるために、ドメイン関連の書籍や事例紹介記事を通したキャッチアップ、日々の朝会で競合他社の情報をチームへ共有、ステークホルダーへのヒアリングといった情報収集を日々の習慣とした。
 
 具体的なタスクは次のとおり。
 
@@ -178,26 +179,25 @@ Argo CD・Docker・Firestore・GitHub・GitHub Actions・HubSpot・PostgreSQL・
 
 【在籍期間】
 
-2021/04/01 ~ 2023/03/31
+2021/04/01 ~ 2023/03/31（2 年間）
 
 【チーム編成】
 
-- PM 1 人
-- バックエンドエンジニア 2 人
-- フロントエンドエンジニア 2 人
-- 営業マネージャー 1 人
-- 営業アシスタント 1 人
+PM 1 人
+バックエンドエンジニア 2 人
+フロントエンドエンジニア 2 人
+営業マネージャー 1 人
+営業アシスタント 1 人
 
 【ステークホルダー】
 
-- クライアント 1 社
-- 開発元企業 1 社
-- 賃貸管理システム提供企業 2 社
+クライアント 1 社
+開発元企業 1 社
+賃貸管理システム提供企業 2 社
 
 【言語・フレームワーク】
 
-- Go
-- Serverless Framework
+Go・Serverless Framework
 
 【インフラ】
 
@@ -206,7 +206,7 @@ Argo CD・Docker・Firestore・GitHub・GitHub Actions・HubSpot・PostgreSQL・
 
 【通信プロトコル】
 
-- GraphQL
+GraphQL
 
 【ツール】
 
@@ -298,23 +298,20 @@ Bitbucket・Docker・GitHub・GitHub Actions・MySQL・Redmine
 
 【在籍期間】
 
-2020-06-23 ~ 2021-01-30
+2020-06-23 ~ 2021-01-30（7 ヵ月）
 
 【チーム編成】
 
-- エンジニア 5 人
-- デザイナー 2 人
+エンジニア 5 人
+デザイナー 2 人
 
 【言語・フレームワーク】
 
-- Ruby
-- Ruby on Rails
-- TypeScript
-- React
+Ruby on Rails・TypeScript・React
 
 【通信プロトコル】
 
-- REST
+REST
 
 【ツール】
 
