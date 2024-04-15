@@ -103,10 +103,10 @@ Datadog・Docker・OpenAPI・RSpec・Terraform
 
 【チーム編成】
 
-- VP of Engineering 1 人
-- PdM 1 人
-- 正社員エンジニア 3 人
-- 業務委託エンジニア 2 人
+- エンジニアリングマネージャー 1 人
+- プロダクトマネージャー 1 人
+- スクラムマスター 1 人
+- エンジニア 4 人
 
 【言語】
 
