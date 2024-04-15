@@ -9,3 +9,4 @@ imports:
       - expected: つな$1
       - expected: もと$1
       - expected: $1および
+      - expected: $1マスタ$2

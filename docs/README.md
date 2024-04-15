@@ -58,7 +58,7 @@ MySQL・PostgreSQL
 
 #### AWS
 
-API Gateway・AppSync・Aurora・CloudWatch・Cognito・DynamoDB・ECR・ECS・EC2・Fargate・IAM・Lambda・SES・SQS・S3
+API Gateway・AppSync・Aurora・CloudWatch・Cognito・DynamoDB・ECR・ECS・EC2・Fargate・IAM・Lambda・QuickSight・SES・SQS・S3
 
 #### Google Cloud
 
@@ -70,7 +70,7 @@ Argo CD・Bitbucket・CircleCI・Firestore・GitHub・GitHub Actions・HubSpot�
 
 ### その他
 
-Datadog・Docker・GraphQL・gRPC・OpenAPI・RSpec・Terraform
+Datadog・Docker・OpenAPI・RSpec・Terraform
 
 ## OSS スポンサー
 
@@ -103,10 +103,10 @@ Datadog・Docker・GraphQL・gRPC・OpenAPI・RSpec・Terraform
 
 【チーム編成】
 
-- VP of Engineering 1 人
-- PdM 1 人
-- 正社員エンジニア 3 人
-- 業務委託エンジニア 2 人
+- エンジニアリングマネージャー 1 人
+- プロダクトマネージャー 1 人
+- スクラムマスター 1 人
+- エンジニア 4 人
 
 【言語】
 
@@ -116,6 +116,8 @@ Go
 
 - Google Cloud
   - Cloud Build・Cloud Pub/Sub・Cloud Run・Cloud SQL・Cloud Tasks・GKE・Secret Manager
+- AWS
+  - QuickSight
 
 【通信プロトコル】
 
