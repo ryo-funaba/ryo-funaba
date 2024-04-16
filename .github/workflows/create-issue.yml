@@ -2,8 +2,12 @@ name: Create issue
 
 on:
   schedule:
-    - cron:  '0 0 1 */3 *'
+    - cron: "0 0 1 */3 *"
   workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
 
 jobs:
   build:
