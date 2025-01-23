@@ -11,7 +11,7 @@
   "license": "MIT",
   "devDependencies": {
     "@proofdict/textlint-rule-proofdict": "3.1.2",
-    "@textlint-ja/textlint-rule-no-dropping-i": "2.0.1",
+    "@textlint-ja/textlint-rule-no-dropping-i": "3.0.0",
     "@textlint-ja/textlint-rule-no-insert-dropping-sa": "2.0.1",
     "@textlint-rule/textlint-rule-no-unmatched-pair": "2.0.4",
     "markdownlint-cli": "0.43.0",
