@@ -24,7 +24,6 @@
 # 💰OSS スポンサー
 
 - [textlint](https://github.com/textlint/textlint)
-- [markdownlint](https://github.com/DavidAnson/markdownlint)
 
 # 🌟OSS コントリビュート
 
