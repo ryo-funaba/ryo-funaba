@@ -60,7 +60,6 @@
 
 - 🥇[ダークナイト](https://www.netflix.com/title/70079583)
 - 🥈[ワイルド・スピード MEGA MAX](https://www.netflix.com/title/70157102)
-- 🥉[トランスフォーマー/ダークサイド・ムーン](https://www.netflix.com/title/70153859)
 
 ## 📺 好きなアニメランキング
 
