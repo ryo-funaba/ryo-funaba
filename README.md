@@ -59,7 +59,6 @@
 ## 🎥 好きな映画ランキング
 
 - 🥇[ダークナイト](https://www.netflix.com/title/70079583)
-- 🥈[ワイルド・スピード MEGA MAX](https://www.netflix.com/title/70157102)
 
 ## 📺 好きなアニメランキング
 
