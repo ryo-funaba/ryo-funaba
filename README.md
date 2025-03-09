@@ -56,10 +56,6 @@
 - 🥈[コンサル一年目が学ぶこと](https://www.amazon.co.jp/dp/B00MA671WW)
 - 🥉[Web を支える技術](https://www.amazon.co.jp/dp/B07JK7FZH2)
 
-## 🎥 好きな映画ランキング
-
-- 🥇[ダークナイト](https://www.netflix.com/title/70079583)
-
 ## 📺 好きなアニメランキング
 
 - 🥇[進撃の巨人](https://www.netflix.com/title/70299043)
