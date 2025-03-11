@@ -60,4 +60,3 @@
 
 - 🥇[進撃の巨人](https://www.netflix.com/title/70299043)
 - 🥈[オーバーロード](https://www.netflix.com/title/80132110)
-- 🥉[Fate/Zero](https://www.netflix.com/title/70304256)
