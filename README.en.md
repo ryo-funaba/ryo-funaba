@@ -71,4 +71,3 @@ English | [日本語](README.md)
 
 - 🥇[Attack on Titan](https://www.netflix.com/title/70299043)
 - 🥈[Overlord](https://www.netflix.com/title/80132110)
-- 🥉[Fate/Zero](https://www.netflix.com/title/70304256)
