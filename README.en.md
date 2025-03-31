@@ -68,5 +68,3 @@ English | [日本語](README.md)
 - 🥉[Transformers: Dark of the Moon](https://www.netflix.com/title/70153859)
 
 ## 📺 My Favorite Anime Ranking
-
-- 🥇[Attack on Titan](https://www.netflix.com/title/70299043)
