@@ -65,4 +65,3 @@ English | [日本語](README.md)
 
 - 🥇[The Dark Knight](https://www.netflix.com/title/70079583)
 - 🥈[Fast Five](https://www.netflix.com/title/70157102)
-- 🥉[Transformers: Dark of the Moon](https://www.netflix.com/title/70153859)
