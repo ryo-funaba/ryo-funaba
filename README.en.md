@@ -64,4 +64,3 @@ English | [日本語](README.md)
 ## 🎥 My Favorite Movie Ranking
 
 - 🥇[The Dark Knight](https://www.netflix.com/title/70079583)
-- 🥈[Fast Five](https://www.netflix.com/title/70157102)
