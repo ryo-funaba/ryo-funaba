@@ -62,5 +62,3 @@ English | [日本語](README.md)
 - 🥉[The Technology Behind the Web](https://www.amazon.co.jp/dp/B07JK7FZH2)
 
 ## 🎥 My Favorite Movie Ranking
-
-- 🥇[The Dark Knight](https://www.netflix.com/title/70079583)
