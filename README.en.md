@@ -60,5 +60,3 @@ English | [日本語](README.md)
 - 🥇[The Agile Samurai](https://www.amazon.co.jp/dp/4274068560)
 - 🥈[What the first year of consultants learn](https://www.amazon.co.jp/dp/B00MA671WW)
 - 🥉[The Technology Behind the Web](https://www.amazon.co.jp/dp/B07JK7FZH2)
-
-## 🎥 My Favorite Movie Ranking
