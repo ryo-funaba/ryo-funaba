@@ -36,7 +36,6 @@ English | [日本語](README.md)
 
 ![Go](https://img.shields.io/badge/-Go-42b0a5?style=flat-square&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-ca7d28?style=flat-square&logo=mysql&logoColor=white)
 
 # 📘 Blog posts
 
