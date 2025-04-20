@@ -34,8 +34,6 @@ English | [日本語](README.md)
 
 # 🚀 Some Tools I Use
 
-![Go](https://img.shields.io/badge/-Go-42b0a5?style=flat-square&logo=go&logoColor=white)
-
 # 📘 Blog posts
 
 - [An idea to manage your resume on GitHub](https://zenn.dev/ryo_f/articles/2f925f621e6d99)
