@@ -32,8 +32,6 @@ English | [日本語](README.md)
   - [Issue](https://github.com/textlint-rule/textlint-rule-rousseau/issues/8)
   - [PR](https://github.com/textlint-rule/textlint-rule-rousseau/pull/10)
 
-# 🚀 Some Tools I Use
-
 # 📘 Blog posts
 
 - [An idea to manage your resume on GitHub](https://zenn.dev/ryo_f/articles/2f925f621e6d99)
