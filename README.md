@@ -27,8 +27,6 @@
   - [Issue](https://github.com/textlint-rule/textlint-rule-rousseau/issues/8)
   - [PR](https://github.com/textlint-rule/textlint-rule-rousseau/pull/10)
 
-# 🚀 使用ツール
-
 # 📘 ブログ記事
 
 - [職務経歴書を GitHub で管理するノウハウ](https://zenn.dev/ryo_f/articles/2f925f621e6d99)
