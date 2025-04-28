@@ -24,7 +24,6 @@ English | [日本語](README.md)
 # 💰OSS sponsor
 
 - [textlint](https://github.com/textlint/textlint)
-- [markdownlint](https://github.com/DavidAnson/markdownlint)
 
 # 🌟Contribute to OSS
 
