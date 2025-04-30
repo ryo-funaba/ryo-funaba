@@ -23,8 +23,6 @@ English | [日本語](README.md)
 
 # 💰OSS sponsor
 
-- [textlint](https://github.com/textlint/textlint)
-
 # 🌟Contribute to OSS
 
 - [textlint-rule-rousseau](https://github.com/textlint-rule/textlint-rule-rousseau)
