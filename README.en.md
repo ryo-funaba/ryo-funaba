@@ -21,8 +21,6 @@ English | [日本語](README.md)
 - [PDF](https://github.com/ryo-funaba/ryo-funaba/releases)
 - [Markdown](https://github.com/ryo-funaba/ryo-funaba/blob/main/docs/README.md?plain=1)
 
-# 💰OSS sponsor
-
 # 🌟Contribute to OSS
 
 - [textlint-rule-rousseau](https://github.com/textlint-rule/textlint-rule-rousseau)
