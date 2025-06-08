@@ -1,4 +1,6 @@
-# ⚡️ 基本情報
+# 💁‍♂️ 自己紹介
+
+## ⚡️ 基本情報
 
 ![profile-views-counter](https://komarev.com/ghpvc/?username=ryo-funaba&label=閲覧数&color=0e75b6&style=flat)
 
@@ -6,11 +8,11 @@
 - 🌱 最近は **Go と DevOps** を学んでいます
 - 📘 技術記事は [Zenn](https://zenn.dev/ryo_f) に投稿しています
 
-## 📝職務経歴書
+## 📝 職務経歴書
 
 [ウェブサイト](https://ryo-funaba.github.io/ryo-funaba/)
 
-## 🌟OSS コントリビュート
+## 🌟 OSS コントリビュート
 
 - [textlint-rule-rousseau](https://github.com/textlint-rule/textlint-rule-rousseau)
   - [Issue](https://github.com/textlint-rule/textlint-rule-rousseau/issues/8)
