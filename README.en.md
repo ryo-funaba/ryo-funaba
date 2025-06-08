@@ -16,7 +16,7 @@ English | [日本語](README.md)
 
 # 📝Resume
 
-[WebSite](https://ryo-funaba.github.io/ryo-funaba/)
+[Site](https://ryo-funaba.github.io/ryo-funaba/)
 
 # 🌟Contribute to OSS
 
