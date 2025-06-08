@@ -3,7 +3,6 @@
 English | [日本語](README.md)
 
 [![CI](https://github.com/ryo-funaba/ryo-funaba/actions/workflows/ci.yml/badge.svg)](https://github.com/ryo-funaba/ryo-funaba/actions/workflows/ci.yml)
-[![PDF](https://github.com/ryo-funaba/ryo-funaba/actions/workflows/release-pdf.yml/badge.svg)](https://github.com/ryo-funaba/ryo-funaba/actions/workflows/release-pdf.yml)
 [![Deploy](https://github.com/ryo-funaba/ryo-funaba/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ryo-funaba/ryo-funaba/actions/workflows/pages/pages-build-deployment)
 [![release date](https://img.shields.io/github/release-date/ryo-funaba/ryo-funaba?color=blue&logo=github)](https://github.com/ryo-funaba/ryo-funaba/releases)
 
@@ -17,9 +16,7 @@ English | [日本語](README.md)
 
 # 📝Resume
 
-- [Site](https://ryo-funaba.github.io/ryo-funaba/)
-- [PDF](https://github.com/ryo-funaba/ryo-funaba/releases)
-- [Markdown](https://github.com/ryo-funaba/ryo-funaba/blob/main/docs/README.md?plain=1)
+[WebSite](https://ryo-funaba.github.io/ryo-funaba/)
 
 # 🌟Contribute to OSS
 
