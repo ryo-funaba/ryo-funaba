@@ -1,7 +1,5 @@
 ![title image](image/title_img.gif)
 
-[English](README.en.md) | 日本語
-
 # ⚡️ 基本情報
 
 ![profile-views-counter](https://komarev.com/ghpvc/?username=ryo-funaba&label=閲覧数&color=0e75b6&style=flat)
