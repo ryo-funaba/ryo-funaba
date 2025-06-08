@@ -25,17 +25,3 @@ lint:
 	else \
 		printf "\033[1;31m[Lint] Failed\33[0m\n"; \
 	fi
-
-#
-# Build Tasks
-#
-.PHONY: build-pdf ## 職務経歴書の PDF を生成する
-build-pdf:
-	@printf "\033[1;33m[Build PDF] Start\33[0m\n";
-	@if npm run build:pdf; then \
-		printf "\033[1;32m[Build PDF] Succeed\33[0m\n"; \
-	else \
-		printf "\033[1;31m[Build PDF] Failed\33[0m\n"; \
-	fi
-
-

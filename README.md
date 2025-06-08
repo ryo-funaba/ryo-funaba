@@ -3,7 +3,6 @@
 [English](README.en.md) | 日本語
 
 [![CI](https://github.com/ryo-funaba/ryo-funaba/actions/workflows/ci.yml/badge.svg)](https://github.com/ryo-funaba/ryo-funaba/actions/workflows/ci.yml)
-[![PDF](https://github.com/ryo-funaba/ryo-funaba/actions/workflows/release-pdf.yml/badge.svg)](https://github.com/ryo-funaba/ryo-funaba/actions/workflows/release-pdf.yml)
 [![Deploy](https://github.com/ryo-funaba/ryo-funaba/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ryo-funaba/ryo-funaba/actions/workflows/pages/pages-build-deployment)
 [![release date](https://img.shields.io/github/release-date/ryo-funaba/ryo-funaba?color=blue&logo=github)](https://github.com/ryo-funaba/ryo-funaba/releases)
 
@@ -17,9 +16,7 @@
 
 # 📝職務経歴書
 
-- [サイト版](https://ryo-funaba.github.io/ryo-funaba/)
-- [PDF 版](https://github.com/ryo-funaba/ryo-funaba/releases)
-- [Markdown 版](https://github.com/ryo-funaba/ryo-funaba/blob/main/docs/README.md?plain=1)
+[ウェブサイト](https://ryo-funaba.github.io/ryo-funaba/)
 
 # 🌟OSS コントリビュート
 

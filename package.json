@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "main": "README.md",
   "scripts": {
-    "build:pdf": "md-to-pdf docs/README.md --config-file ./pdf-configs/config.js",
     "lint": "textlint -c ./config/.textlintrc . && markdownlint -c ./config/.markdownlint.jsonc *.md **/*.md"
   },
   "repository": "git@github.com:ryo-funaba/ryo-funaba.git",
@@ -15,7 +14,6 @@
     "@textlint-ja/textlint-rule-no-insert-dropping-sa": "2.0.1",
     "@textlint-rule/textlint-rule-no-unmatched-pair": "2.0.4",
     "markdownlint-cli": "0.44.0",
-    "md-to-pdf": "5.2.4",
     "textlint": "14.5.0",
     "textlint-filter-rule-comments": "1.2.2",
     "textlint-rule-apostrophe": "3.0.0",
