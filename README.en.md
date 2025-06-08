@@ -2,10 +2,6 @@
 
 English | [日本語](README.md)
 
-[![CI](https://github.com/ryo-funaba/ryo-funaba/actions/workflows/ci.yml/badge.svg)](https://github.com/ryo-funaba/ryo-funaba/actions/workflows/ci.yml)
-[![Deploy](https://github.com/ryo-funaba/ryo-funaba/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ryo-funaba/ryo-funaba/actions/workflows/pages/pages-build-deployment)
-[![release date](https://img.shields.io/github/release-date/ryo-funaba/ryo-funaba?color=blue&logo=github)](https://github.com/ryo-funaba/ryo-funaba/releases)
-
 # ⚡️ A Few Quick Facts
 
 ![profile-views-counter](https://komarev.com/ghpvc/?username=ryo-funaba&label=view_count&color=0e75b6&style=flat)
