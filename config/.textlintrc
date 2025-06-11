@@ -56,7 +56,10 @@
       "max": 150
     },
     "terminology": {
-      "defaultTerms": true
+      "defaultTerms": true,
+      "exclude": [
+        "e2e"
+      ]
     },
     "use-si-units": {
       "allowedUnits": ["%"],
