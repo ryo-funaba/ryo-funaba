@@ -2,7 +2,7 @@
 
 ## ⚡️ 基本情報
 
-![profile-views-counter](https://komarev.com/ghpvc/?username=ryo-funaba&label=閲覧数&color=0e75b6&style=flat)
+![profile-views-counter](https://komarev.com/ghpvc/?username=ryo-funaba&label=View&color=0e75b6&style=flat)
 
 - 💼 **自社開発企業** で働いています
 - 🌱 最近は **QA** に興味があります
