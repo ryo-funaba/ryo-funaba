@@ -5,7 +5,7 @@
 ![profile-views-counter](https://komarev.com/ghpvc/?username=ryo-funaba&label=閲覧数&color=0e75b6&style=flat)
 
 - 💼 **自社開発企業** で働いています
-- 🌱 最近は **Go と DevOps** を学んでいます
+- 🌱 最近は **QA** に興味があります
 - 📘 技術記事は [Zenn](https://zenn.dev/ryo_f) に投稿しています
 
 ## 📝 職務経歴書
