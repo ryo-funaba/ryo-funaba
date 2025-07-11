@@ -46,7 +46,7 @@
     "textlint-rule-prh": "6.1.0",
     "textlint-rule-rousseau": "1.4.8",
     "textlint-rule-sentence-length": "5.2.0",
-    "textlint-rule-terminology": "5.2.13",
+    "textlint-rule-terminology": "5.2.14",
     "textlint-rule-use-si-units": "2.0.0"
   }
 }
