@@ -10,3 +10,6 @@ imports:
       - expected: もと$1
       - expected: $1および
       - expected: $1マスタ$2
+      - expected: しくみ
+      - expected: よい
+      - expected: $1ほか$2
