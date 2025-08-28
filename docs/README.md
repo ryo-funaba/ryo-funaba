@@ -71,6 +71,10 @@ GitHub Actions と Lint を組み合わせ、職務経歴書の文法・誤字�
 
 スクラム開発・チケット駆動開発
 
+### テストツール
+
+Playwright・RSpec・runn
+
 ### 言語
 
 Go・JavaScript・Ruby・TypeScript
@@ -97,13 +101,17 @@ API Gateway・AppSync・Aurora・CloudWatch・Cognito・DynamoDB・ECR・ECS・E
 
 Cloud Build・Cloud Pub/Sub・Cloud Run・Cloud SQL・Cloud Tasks・GKE・Secret Manager・Vertex AI
 
-### SaaS/PaaS
+### CI・CD
 
-Argo CD・Bitbucket・CircleCI・Datadog・Firestore・GitHub・GitHub Actions・HubSpot・Redmine・Salesforce
+Argo CD・CircleCI・GitHub Actions
 
-### その他
+### SaaS・PaaS
 
-Docker・OpenAPI・Playwright・RSpec・Terraform
+Datadog・Firestore・GitHub・HubSpot・Salesforce
+
+### その他のツール・ライブラリ
+
+Docker・OpenAPI・Terraform
 
 ## OSS コントリビュート
 
