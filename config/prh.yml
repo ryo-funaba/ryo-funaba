@@ -13,3 +13,4 @@ imports:
       - expected: しくみ
       - expected: よい
       - expected: $1ほか$2
+      - expected: サーバ
