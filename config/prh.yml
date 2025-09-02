@@ -14,3 +14,5 @@ imports:
       - expected: よい
       - expected: $1ほか$2
       - expected: サーバ
+      - expected: さまざま
+      - expected: リグレッション
