@@ -20,5 +20,11 @@
       "renovate",
       "update_major"
     ]
-  }
+  },
+  "packageRules": [
+    {
+      "matchDatasources": ["npm"],
+      "minimumReleaseAge": "7 days"
+    }
+  ]
 }
