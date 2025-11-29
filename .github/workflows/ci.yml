@@ -17,6 +17,10 @@ jobs:
         uses: actions/checkout@1af3b93b6815bc44a9784bd300feb67ff0d1eeb3 # v6
       - name: Run oven-sh/setup-bun
         uses: oven-sh/setup-bun@735343b667d3e6f658f44d0eca948eb6282f2b76 # v2
+      - name: Setup safe-chain
+        run: |
+          bun install -g @aikidosec/safe-chain
+          safe-chain setup-ci
       - name: Run bun install
         run: bun install --no-save
       - name: Run bun lint
