@@ -45,7 +45,7 @@
     "textlint-rule-preset-ja-spacing": "2.4.3",
     "textlint-rule-prh": "6.1.0",
     "textlint-rule-rousseau": "1.4.8",
-    "textlint-rule-sentence-length": "5.2.0",
+    "textlint-rule-sentence-length": "5.2.1",
     "textlint-rule-terminology": "5.2.16",
     "textlint-rule-use-si-units": "2.0.0"
   }
