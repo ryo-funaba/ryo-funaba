@@ -8,7 +8,7 @@ help:
 .PHONY: install ## 依存ライブラリをインストールする
 install:
 	@printf "\033[1;33m[Install] Start\33[0m\n"
-	@if bun install; then \
+	@if bun install --frozen-lockfile; then \
 		printf "\033[1;32m[Install] Succeed\33[0m\n"; \
 	else \
 		printf "\033[1;31m[Install] Failed\33[0m\n"; \
