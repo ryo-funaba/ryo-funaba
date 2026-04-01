@@ -2,6 +2,7 @@
   "name": "ryo-funaba",
   "version": "1.0.0",
   "main": "README.md",
+  "private": true,
   "scripts": {
     "lint": "textlint -c ./config/.textlintrc . && markdownlint -c ./config/.markdownlint.jsonc *.md **/*.md"
   },
