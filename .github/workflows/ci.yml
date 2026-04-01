@@ -22,6 +22,6 @@ jobs:
           bun install -g @aikidosec/safe-chain
           safe-chain setup-ci
       - name: Run bun install
-        run: bun install --no-save
+        run: bun install --frozen-lockfile
       - name: Run bun lint
         run: bun lint

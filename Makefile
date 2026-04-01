@@ -8,7 +8,7 @@ help:
 .PHONY: install ## 依存ライブラリをインストールする
 install:
 	@printf "\033[1;33m[Install] Start\33[0m\n"
-	@if npm install; then \
+	@if bun install; then \
 		printf "\033[1;32m[Install] Succeed\33[0m\n"; \
 	else \
 		printf "\033[1;31m[Install] Failed\33[0m\n"; \
@@ -20,7 +20,7 @@ install:
 .PHONY: lint ## 全ファイルを対象に Lint を実行する
 lint:
 	@printf "\033[1;33m[Lint] Start\33[0m\n";
-	@if npm run lint; then \
+	@if bun run lint; then \
 		printf "\033[1;32m[Lint] Succeed\33[0m\n"; \
 	else \
 		printf "\033[1;31m[Lint] Failed\33[0m\n"; \
