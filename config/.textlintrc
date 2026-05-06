@@ -31,7 +31,11 @@
     },
     "max-kanji-continuous-len": {
       "max": 6,
-      "allow": ["日商簿記検定試験"]
+      "allow": [
+        "日商簿記検定試験",
+        "日本証券業協会",
+        "一種外務員資格"
+      ]
     },
     "max-ten": true,
     "no-doubled-conjunction": true,
