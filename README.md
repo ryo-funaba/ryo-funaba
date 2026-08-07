@@ -30,9 +30,3 @@
 - 犬と触れ合うこと
 - 健康的な生活
 - ミニマリズム
-
-## 📚 好きな書籍ランキング
-
-- 🥇[アジャイルサムライ](https://www.amazon.co.jp/dp/4274068560)
-- 🥈[コンサル一年目が学ぶこと](https://www.amazon.co.jp/dp/B00MA671WW)
-- 🥉[Web を支える技術](https://www.amazon.co.jp/dp/B07JK7FZH2)
