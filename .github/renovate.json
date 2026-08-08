@@ -23,7 +23,9 @@
   },
   "packageRules": [
     {
-      "matchDatasources": ["bun"],
+      "matchDatasources": [
+        "bun"
+      ],
       "minimumReleaseAge": "7 days"
     }
   ]
