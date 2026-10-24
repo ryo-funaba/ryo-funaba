@@ -21,7 +21,7 @@
         "textlint-rule-ja-no-space-around-parentheses": "3.0.4",
         "textlint-rule-ja-no-space-between-full-width": "3.0.4",
         "textlint-rule-ja-space-after-exclamation": "3.0.4",
-        "textlint-rule-ja-space-after-question": "3.0.3",
+        "textlint-rule-ja-space-after-question": "3.0.4",
         "textlint-rule-ja-space-around-code": "3.0.4",
         "textlint-rule-ja-space-around-link": "3.0.3",
         "textlint-rule-ja-space-between-half-and-full-width": "3.0.4",
@@ -752,7 +752,7 @@
 
     "textlint-rule-ja-space-after-exclamation": ["textlint-rule-ja-space-after-exclamation@3.0.4", "", { "dependencies": { "textlint-rule-helper": "^2.2.4" } }, "sha512-HOxdaRME4Ni14Cw1qf0ixfH8sC0o42syLiiaSjNtnAZRG3U0dvexj990bLP9Jc/70NXgoQcFYij7CA1vF/1aKQ=="],
 
-    "textlint-rule-ja-space-after-question": ["textlint-rule-ja-space-after-question@3.0.3", "", { "dependencies": { "textlint-rule-helper": "^2.2.4" } }, "sha512-8mTq6L38myS5z2STTSX29GqvNwNlVRqStKcqL0cFsMT8Nf4eMU4zhqMHXDjr4yJBljzBTbIqE80WVW3r2abXiA=="],
+    "textlint-rule-ja-space-after-question": ["textlint-rule-ja-space-after-question@3.0.4", "", { "dependencies": { "textlint-rule-helper": "^2.2.4" } }, "sha512-M2TQlxZWWtFhK/rEbYM2FfoHsXEJmF7nYPWEIQilYKwUQZsOR6ZauEb2T2rKiiUNFpqCGvESMaTyT4wkCoWEPw=="],
 
     "textlint-rule-ja-space-around-code": ["textlint-rule-ja-space-around-code@3.0.4", "", { "dependencies": { "textlint-rule-helper": "^2.2.4" } }, "sha512-HlNSX72QX3fM+xr5InIn9BjagZ4k35dixs950ynbQ4ulSIZeph2PNncVvhiE0KlCEzmlqCfwqQedVETfjyyvmw=="],
 
@@ -975,8 +975,6 @@
     "textlint-rule-ja-unnatural-alphabet/@textlint/regexp-string-matcher": ["@textlint/regexp-string-matcher@1.1.1", "", { "dependencies": { "escape-string-regexp": "^2.0.0", "execall": "^2.0.0", "lodash.sortby": "^4.7.0", "lodash.uniq": "^4.5.0", "lodash.uniqwith": "^4.5.0", "to-regex": "^3.0.2" } }, "sha512-rrNUCKGKYBrZALotSF8D5A8xD05VHX6kxv0BP805Ig2M73Ha6LK+de31+ZocGm4CO+sikVFYyMCPPJhp7bCXcw=="],
 
     "textlint-rule-prefer-tari-tari/textlint-util-to-string": ["textlint-util-to-string@2.1.1", "", { "dependencies": { "object-assign": "^4.0.1", "structured-source": "^3.0.2" } }, "sha512-PW6rXqLNGL3xZ6d5/INrX+pt8qbffmeDPLcvkBOlfNpDRFhVvNNjFmZXH86ZQjrOz9t/nNZDBXqnzqJuioJbSQ=="],
-
-    "textlint-rule-preset-ja-spacing/textlint-rule-ja-space-after-question": ["textlint-rule-ja-space-after-question@3.0.4", "", { "dependencies": { "textlint-rule-helper": "^2.2.4" } }, "sha512-M2TQlxZWWtFhK/rEbYM2FfoHsXEJmF7nYPWEIQilYKwUQZsOR6ZauEb2T2rKiiUNFpqCGvESMaTyT4wkCoWEPw=="],
 
     "textlint-rule-preset-ja-spacing/textlint-rule-ja-space-around-link": ["textlint-rule-ja-space-around-link@3.0.4", "", { "dependencies": { "textlint-rule-helper": "^2.2.4" } }, "sha512-NsEgUPEEPbHZY5cn6JC3CUmjveJ0NvDcRvc5tIRW3e+nFzcM8w35PqUWiDKDEiPd67hp4u9nmdtYozPMC6PAFw=="],
 
