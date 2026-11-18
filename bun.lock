@@ -23,7 +23,7 @@
         "textlint-rule-ja-space-after-exclamation": "3.0.4",
         "textlint-rule-ja-space-after-question": "3.0.4",
         "textlint-rule-ja-space-around-code": "3.0.4",
-        "textlint-rule-ja-space-around-link": "3.0.4",
+        "textlint-rule-ja-space-around-link": "3.1.0",
         "textlint-rule-ja-space-between-half-and-full-width": "3.0.4",
         "textlint-rule-ja-unnatural-alphabet": "2.0.1",
         "textlint-rule-max-comma": "4.0.0",
@@ -762,7 +762,7 @@
 
     "textlint-rule-ja-space-around-emphasis": ["textlint-rule-ja-space-around-emphasis@3.0.4", "", { "dependencies": { "textlint-rule-helper": "^2.2.4" } }, "sha512-mIj1CBgFI05IgLSphEXlkZKLL6zZCaWBiwvIqL13GECztQRD1zjHRXDTSN+Dfbvy7lxLkLcqKG3PfQoXmyfvhw=="],
 
-    "textlint-rule-ja-space-around-link": ["textlint-rule-ja-space-around-link@3.0.4", "", { "dependencies": { "textlint-rule-helper": "^2.2.4" } }, "sha512-NsEgUPEEPbHZY5cn6JC3CUmjveJ0NvDcRvc5tIRW3e+nFzcM8w35PqUWiDKDEiPd67hp4u9nmdtYozPMC6PAFw=="],
+    "textlint-rule-ja-space-around-link": ["textlint-rule-ja-space-around-link@3.1.0", "", { "dependencies": { "textlint-rule-helper": "^2.2.4" } }, "sha512-193PZ7kuWJxBGEPfowMRzs6ItDyz3d5vn+hChN1GsnkdUYfBSP1rAUQLM8lMqtaw1e0453QkagShyW/Bg26FLg=="],
 
     "textlint-rule-ja-space-around-strong": ["textlint-rule-ja-space-around-strong@3.0.4", "", { "dependencies": { "textlint-rule-helper": "^2.2.4" } }, "sha512-TBT0Jb5+C497KAzeaQUB/TyR/MqJpe3cm8r6D/TiyIYhTntKY/+Dl/fFDHov1DugVrDw0OtsEcn0ipTs5/8SWw=="],
 
